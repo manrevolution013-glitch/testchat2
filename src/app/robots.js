@@ -1,5 +1,10 @@
+import { getSiteBaseUrl, getSiteConfig } from '../lib/config';
+
 export default function robots() {
-  return {
+  const config = getSiteConfig();
+  const baseUrl = getSiteBaseUrl(config);
+
+  const out = {
     rules: [
       {
         userAgent: '*',
@@ -7,7 +12,9 @@ export default function robots() {
         disallow: ['/private/', '/admin/'],
       },
     ],
-    sitemap: 'https://cuckoldchat.de/sitemap.xml',
   };
+  if (baseUrl) {
+    out.sitemap = `${baseUrl}/sitemap.xml`;
+  }
+  return out;
 }
-

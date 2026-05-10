@@ -1,8 +1,8 @@
-import { getSiteConfig } from '../lib/config';
+import { getSiteBaseUrl, getSiteConfig } from '../lib/config';
 
 export default function sitemap() {
   const config = getSiteConfig();
-  const baseUrl = 'https://' + config.header.logoText;
+  const baseUrl = getSiteBaseUrl(config);
   
   const pages = Object.values(config.pages)
     .filter(p => p.slug)
@@ -12,6 +12,10 @@ export default function sitemap() {
     '',
     ...pages
   ];
+
+  if (!baseUrl) {
+    return [];
+  }
 
   return routes.map((route) => ({
     url: `${baseUrl}${route}`,
