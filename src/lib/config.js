@@ -9,18 +9,18 @@ function normalizeBaseUrl(url) {
 }
 
 /**
- * Canonical origin for SEO (sitemap, robots, absolute URLs).
- * Order: NEXT_PUBLIC_SITE_URL → metadata.siteUrl in site JSON → VERCEL_URL → header.logoText
+ * Canonical origin for SEO (sitemap, robots). Never uses VERCEL_URL — use each site JSON `domain`.
+ * Order: domain → NEXT_PUBLIC_SITE_URL → metadata.siteUrl → header.logoText
  */
 export function getSiteBaseUrl(cfg = config) {
+  const fromDomain = cfg?.domain;
+  if (fromDomain) return normalizeBaseUrl(fromDomain);
+
   const fromEnv = process.env.NEXT_PUBLIC_SITE_URL;
   if (fromEnv) return normalizeBaseUrl(fromEnv);
 
   const fromJson = cfg?.metadata?.siteUrl;
   if (fromJson) return normalizeBaseUrl(fromJson);
-
-  const vercel = process.env.VERCEL_URL;
-  if (vercel) return normalizeBaseUrl(`https://${vercel}`);
 
   const host = cfg?.header?.logoText;
   if (host) return normalizeBaseUrl(host);

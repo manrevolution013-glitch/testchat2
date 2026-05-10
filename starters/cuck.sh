@@ -1,4 +1,4 @@
-export NEXT_PUBLIC_SITE_NAME=balkanchat
+export NEXT_PUBLIC_SITE_NAME=femdomchat
 export NEXT_PUBLIC_API_URL=https://chatcommonapigw.online/api
 export NEXT_PUBLIC_FIREBASE_API_KEY="AIzaSyBuDC9HOlUPrRhslnnydqZx2VeYt4t9XcQ"
 export NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN="chat-af3ce.firebaseapp.com"
