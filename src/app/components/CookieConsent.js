@@ -54,10 +54,14 @@ export default function CookieConsent({ config }) {
           <Link href={config.privacyLink} className="cookie-link">
             {config.privacyText}
           </Link>
-          {' & '}
-          <Link href={config.impressumLink} className="cookie-link">
-            {config.impressumText}
-          </Link>
+          {config.impressumLink && config.impressumText ? (
+            <>
+              {' & '}
+              <Link href={config.impressumLink} className="cookie-link">
+                {config.impressumText}
+              </Link>
+            </>
+          ) : null}
         </p>
       </div>
       <div className="cookie-actions">
