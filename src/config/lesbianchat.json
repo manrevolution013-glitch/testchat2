@@ -1,0 +1,357 @@
+{
+  "assets": {
+    "heroBackground": "https://images.pexels.com/photos/1190297/pexels-photo-1190297.jpeg?auto=compress&cs=tinysrgb&w=1950",
+    "chatBackground": "https://images.unsplash.com/photo-1557683316-973673baf926?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80",
+    "chatBackgroundRepeat": "no-repeat",
+    "chatBackgroundSize": "cover",
+    "avatarApi": "",
+    "faviconPath": "/favicons/lesbianchat"
+  },
+  "metadata": {
+    "title": "Lesbian Chat - The #1 Safe & Free Online Community for Women",
+    "description": "Join the most active Lesbian Chat in the US. A verified, safe space for women to connect, date, and share. Free registration, no bots, just real connections.",
+    "keywords": [
+      "lesbian chat",
+      "lesbian dating",
+      "wlw chat",
+      "lgbtq chat for women",
+      "safe lesbian community",
+      "free lesbian chat room",
+      "online lesbian meetup"
+    ],
+    "openGraph": {
+      "title": "LesbianChat.us - Connect with Women Like You",
+      "description": "The premier safe space for lesbian women. Chat, connect, and build community today.",
+      "siteName": "LesbianChat.us",
+      "locale": "en_US",
+      "type": "website"
+    },
+    "alternates": {
+        "languages": {
+            "en": "/en",
+            "es": "/es"
+        }
+    }
+  },
+  "header": {
+    "logoText": "lesbianchat.us"
+  },
+  "hero": {
+    "title": "Connect with Real Women in a Safe Space",
+    "subtitle": "Welcome to LesbianChat.us. We are the premier community for lesbian women to meet, chat, and build meaningful relationships. Whether you are looking for friendship, support, or love, our verified platform ensures a secure and authentic experience.",
+    "features": [
+      {
+        "icon": "ShieldCheck",
+        "text": "Verified Users Only"
+      },
+      {
+        "icon": "Users",
+        "text": "Inclusive Community"
+      },
+      {
+        "icon": "Lock",
+        "text": "Private & Secure"
+      }
+    ]
+  },
+  "auth": {
+    "usernamePlaceholder": "Choose a Username",
+    "passwordPlaceholder": "Password (Optional for Guests)",
+    "guestButton": "Join the Chat",
+    "signInGoogle": "Sign in with Google",
+    "signInFacebook": "Sign in with Facebook",
+    "or": "or",
+    "loginButton": "Login",
+    "loginError": "Login Failed",
+    "connectionError": "Connection Error",
+    "errors": {
+      "incorrectPassword": "Incorrect password",
+      "missingUsername": "Missing username",
+      "usernameTaken": "Username taken"
+    }
+  },
+  "ageVerification": {
+    "title": "Age Verification 18+",
+    "text": "This community is for adults only. You must be at least 18 years old to enter.",
+    "yesButton": "Yes, I am 18+",
+    "noButton": "No, I am under 18"
+  },
+  "dashboard": {
+    "loading": "Loading...",
+    "publicChat": "Public Lounge",
+    "channelsTitle": "Topics",
+    "createChannelTitle": "New Topic",
+    "usersTitle": "Online Members",
+    "rulesButton": "Rules",
+    "logout": "Logout",
+    "auth": {
+      "signIn": "Sign In",
+      "signUp": "Sign Up",
+      "signInGoogle": "Sign in with Google",
+      "signInFacebook": "Sign in with Facebook",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "username": "Username",
+      "or": "or"
+    },
+    "changeUsername": "Change Username",
+    "profilePic": "Change Avatar",
+    "messagePlaceholder": "Type a message...",
+    "online": "Online",
+    "timeAgo": {
+      "m": "{t}m ago",
+      "h": "{t}h ago",
+      "d": "{t}d ago"
+    },
+    "notifications": {
+      "newMessage": "New message in",
+      "channel": "a channel",
+      "dm": "a DM"
+    },
+    "messages": {
+      "report": "Report User",
+      "sendError": "Failed to send",
+      "connectionError": "Connection error"
+    },
+    "modals": {
+      "rules": {
+        "close": "Close"
+      },
+      "createChannel": {
+        "title": "Start a New Topic",
+        "placeholder": "Topic Name",
+        "cancel": "Cancel",
+        "submit": "Create",
+        "success": "Topic created!",
+        "error": "Could not create topic"
+      },
+      "username": {
+        "minChars": "Username must be 3+ characters.",
+        "success": "Username updated.",
+        "error": "Could not update username."
+      },
+      "report": {
+        "success": "Report sent. Thank you for keeping us safe.",
+        "error": "Could not send report.",
+        "title": "Report User",
+        "description": "Please select a reason for reporting this content. We review all reports to maintain safety.",
+        "label": "Reason:",
+        "placeholder": "Select a reason...",
+        "cancel": "Cancel",
+        "submit": "Submit Report",
+        "reasons": {
+          "spam": "Spam or Bot",
+          "harassment": "Harassment or Bullying",
+          "hate_speech": "Hate Speech",
+          "inappropriate": "Inappropriate Content",
+          "other": "Other"
+        }
+      }
+    }
+  },
+  "stories": {
+    "title": "Community Stories",
+    "items": [
+      {
+        "title": "Found My Best Friend",
+        "content": "\"I was new to the city and felt isolated. Through LesbianChat, I found a group of women who love hiking as much as I do. It is not just a chat room. It is a lifeline.\"",
+        "author": "Sarah, San Francisco - Joined 2023"
+      },
+      {
+        "title": "Authentic Connections",
+        "content": "\"Dating apps felt superficial. Here, the conversation comes first. I met my partner in the general chat, and we just clicked. The vibe is so much more relaxed and genuine.\"",
+        "author": "Elena & Jo, Austin - Joined 2024"
+      },
+      {
+        "title": "Safe and Welcoming",
+        "content": "\"As a trans woman, I often worry about acceptance. This community has been incredibly welcoming and affirming. The moderation team does a great job keeping it safe.\"",
+        "author": "Mia, New York - Joined 2024"
+      }
+    ]
+  },
+  "safety": {
+    "title": "Your Safety Is Our Priority",
+    "items": [
+      {
+        "icon": "Shield",
+        "title": "Active Moderation",
+        "content": "Our dedicated team monitors the platform 24/7 to ensure a harassment-free environment. We have zero tolerance for hate speech, bots, or predatory behavior."
+      },
+      {
+        "icon": "Lock",
+        "title": "Data Privacy",
+        "content": "We do not sell your data. Your conversations are encrypted. We believe your personal life should stay personal. We only collect what is needed to run the service."
+      },
+      {
+        "icon": "Heart",
+        "title": "Community Standards",
+        "content": "We foster a culture of respect and consent. Every member agrees to our code of conduct upon joining. We empower you to block and report anyone who violates these standards."
+      }
+    ]
+  },
+  "footer": {
+    "links": [
+      {
+        "label": "About Us",
+        "href": "/about"
+      },
+      {
+        "label": "Privacy Policy",
+        "href": "/privacy"
+      },
+      {
+        "label": "Terms of Service",
+        "href": "/terms"
+      },
+      {
+        "label": "Safety Guide",
+        "href": "/safety"
+      },
+      {
+        "label": "Contact Us",
+        "href": "/contact"
+      },
+      {
+        "label": "Impressum",
+        "href": "/imprint"
+      }
+    ],
+    "copyright": "LesbianChat.us. All Rights Reserved.",
+    "disclaimer": "Adults only (18+). We promote safe and consensual interactions."
+  },
+  "cookieConsent": {
+    "message": "We use cookies to ensure the site functions correctly and to improve your experience.",
+    "acceptText": "Accept",
+    "declineText": "Decline",
+    "privacyText": "Privacy Policy",
+    "privacyLink": "/privacy",
+    "impressumText": "Imprint",
+    "impressumLink": "/impressum"
+  },
+  "pages": {
+    "about": {
+      "slug": "about",
+      "title": "About LesbianChat.us",
+      "description": "Connecting women in a safe, respectful, and vibrant online community.",
+      "content": [
+        {
+          "heading": "Our Mission",
+          "text": "We started LesbianChat.us with a simple goal: to create the most secure and engaging online space for lesbian, bisexual, and queer women. In a digital world often filled with noise, we offer a sanctuary for authentic connection."
+        },
+        {
+          "heading": "Why We Are Different",
+          "text": "Unlike broad social networks, we focus specifically on the needs of our community. We prioritize safety features, verified profiles, and active moderation to ensure that this space remains truly yours."
+        },
+        {
+          "heading": "Growing Together",
+          "text": "Since our launch, we have grown from a small group to a thriving nationwide network. We listen to our members and evolve the platform based on your feedback. This is your community."
+        }
+      ]
+    },
+    "privacy": {
+      "slug": "privacy",
+      "title": "Privacy Policy",
+      "description": "How we protect your data and your identity.",
+      "content": [
+        {
+          "heading": "Data Collection",
+          "text": "We collect minimal data necessary to operate the service, such as your username and login credentials. We do not require real names or physical addresses for basic usage."
+        },
+        {
+          "heading": "No Third-Party Sharing",
+          "text": "Your data is not for sale. We do not share your personal information with advertisers or third-party data brokers. Your trust is our most valuable asset."
+        },
+        {
+          "heading": "User Control",
+          "text": "You have full control over your account. You can request a copy of your data or delete your account permanently at any time through your settings or by contacting support."
+        }
+      ]
+    },
+    "terms": {
+      "slug": "terms",
+      "title": "Terms of Service",
+      "description": "The rules that keep our community safe and enjoyable.",
+      "content": [
+        {
+          "heading": "Respect and Inclusion",
+          "text": "This is a space for all women. We do not tolerate racism, transphobia, or any form of discrimination. Treat every member with dignity and respect."
+        },
+        {
+          "heading": "Prohibited Content",
+          "text": "Posting illegal content, spam, or malicious software is strictly prohibited and will result in an immediate ban. We cooperate with law enforcement when necessary."
+        },
+        {
+          "heading": "Age Requirement",
+          "text": "You must be at least 18 years old to use this service. By accessing the site, you confirm that you meet this age requirement."
+        }
+      ]
+    },
+    "safety": {
+      "slug": "safety",
+      "title": "Safety Guide",
+      "description": "Tips for staying safe online and offline.",
+      "content": [
+        {
+          "heading": "Protect Your Identity",
+          "text": "Be cautious about sharing personal details like your full name, workplace, or home address. Use a unique password for this site."
+        },
+        {
+          "heading": "Meeting in Person",
+          "text": "If you decide to meet a chat partner in person, always choose a public place. Tell a friend where you are going and who you are meeting. Trust your instincts."
+        },
+        {
+          "heading": "Reporting Issues",
+          "text": "If someone makes you feel uncomfortable, do not hesitate to use the block and report features. Our team investigates every report thoroughly."
+        }
+      ]
+    },
+    "contact": {
+      "slug": "contact",
+      "title": "Contact Us",
+      "form": {
+        "namePlaceholder": "Your Name",
+        "emailPlaceholder": "Your Email",
+        "messagePlaceholder": "Your Message",
+        "submit": "Send Message",
+        "sending": "Sending...",
+        "success": "Message sent!",
+        "error": "Failed to send message."
+      },
+      "description": "We are here to help.",
+      "content": [
+        {
+          "heading": "Support Team",
+          "text": "For technical issues or account help, email us at support@lesbianchat.us. We aim to respond within 24 hours."
+        },
+        {
+          "heading": "Safety Concerns",
+          "text": "For urgent safety issues or to report a violation, please contact safety@lesbianchat.us or use the in-chat reporting tools."
+        },
+        {
+          "heading": "Partnerships",
+          "text": "Interested in partnering with us? Reach out to our business team via the form below."
+        }
+      ]
+    },
+    "impressum": {
+      "slug": "imprint",
+      "title": "Imprint",
+      "description": "Legal Information",
+      "content": [
+        {
+          "heading": "Operator",
+          "text": "This service is operated as a private community project. We are dedicated to providing a free service for the community."
+        },
+        {
+          "heading": "Contact",
+          "text": "Email: contact@lesbianchat.us"
+        },
+        {
+          "heading": "Disclaimer",
+          "text": "We are not responsible for the content of external links. The operators of linked sites are solely responsible for their content."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "assets": {
+    "heroBackground": "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?auto=format&fit=crop&w=1950&q=80",
+    "chatBackground": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1600&q=80",
+    "chatBackgroundRepeat": "no-repeat",
+    "chatBackgroundSize": "cover",
+    "avatarApi": "",
+    "faviconPath": "/favicons/chatvalencia"
+  },
+  "metadata": {
+    "title": "Chat Valencia | Chat general seguro en Valencia",
+    "description": "Chat Valencia es el chat general verificado para conocer gente real en Valencia. Seguridad, moderación activa y conexiones auténticas. Únete gratis.",
+    "keywords": [
+      "chat valencia",
+      "chat valencia general",
+      "chat valencia gratis",
+      "conocer gente valencia",
+      "comunidad segura",
+      "ligar valencia",
+      "chat sin bots",
+      "foro valencia",
+      "comunidad valencia",
+      "grupos valencia"
+    ],
+    "openGraph": {
+      "title": "ChatValencia.net - Comunidad segura en Valencia",
+      "description": "Conecta con personas reales en Valencia con seguridad, moderación y privacidad.",
+      "siteName": "ChatValencia.net",
+      "locale": "es_ES",
+      "type": "website"
+    },
+    "alternates": {
+      "languages": {
+        "es": "/sobre-nosotros"
+      }
+    }
+  },
+  "header": {
+    "logoText": "chatvalencia.net"
+  },
+  "hero": {
+    "title": "Conecta en Valencia con seguridad y respeto",
+    "subtitle": "Chat Valencia es tu espacio verificado para hablar, conocer y crear comunidad local en un entorno moderado, técnico y seguro.",
+    "features": [
+      { "icon": "ShieldCheck", "text": "Moderación y verificación" },
+      { "icon": "Lock", "text": "Privacidad y cifrado" },
+      { "icon": "Users", "text": "Comunidad local real" }
+    ]
+  },
+  "auth": {
+    "usernamePlaceholder": "Nombre de usuario",
+    "passwordPlaceholder": "Contraseña (opcional para invitados)",
+    "guestButton": "Entrar como invitado",
+    "signInGoogle": "Entrar con Google",
+    "signInFacebook": "Entrar con Facebook",
+    "or": "o",
+    "loginButton": "Acceder",
+    "loginError": "Error al iniciar sesión",
+    "connectionError": "Error de conexión",
+    "errors": {
+      "incorrectPassword": "Contraseña incorrecta",
+      "missingUsername": "Falta el nombre de usuario",
+      "usernameTaken": "Nombre de usuario ocupado"
+    }
+  },
+  "ageVerification": {
+    "title": "Verificación 18+",
+    "text": "Esta comunidad es solo para mayores de 18 años. Continuando confirmas tu mayoría de edad.",
+    "yesButton": "Sí, soy mayor de 18",
+    "noButton": "Salir"
+  },
+  "dashboard": {
+    "loading": "Cargando...",
+    "publicChat": "Chat público",
+    "channelsTitle": "Canales",
+    "createChannelTitle": "Crear canal",
+    "usersTitle": "Usuarios",
+    "rulesButton": "Normas",
+    "logout": "Cerrar sesión",
+    "auth": {
+      "signIn": "Entrar",
+      "signUp": "Registro",
+      "signInGoogle": "Entrar con Google",
+      "signInFacebook": "Entrar con Facebook",
+      "email": "Correo",
+      "password": "Contraseña",
+      "confirmPassword": "Confirmar contraseña",
+      "username": "Usuario",
+      "or": "o"
+    },
+    "changeUsername": "Cambiar usuario",
+    "profilePic": "Cambiar avatar",
+    "messagePlaceholder": "Escribe un mensaje...",
+    "online": "En línea",
+    "timeAgo": {
+      "m": "hace {t}m",
+      "h": "hace {t}h",
+      "d": "hace {t}d"
+    },
+    "notifications": {
+      "newMessage": "Nuevo mensaje en",
+      "channel": "un canal",
+      "dm": "un privado"
+    },
+    "messages": {
+      "report": "Reportar usuario",
+      "sendError": "Error al enviar",
+      "connectionError": "Error de conexión"
+    },
+    "modals": {
+      "rules": { "close": "Cerrar" },
+      "createChannel": {
+        "title": "Crear canal",
+        "placeholder": "Nombre del canal",
+        "cancel": "Cancelar",
+        "submit": "Crear",
+        "success": "Canal creado",
+        "error": "No se pudo crear"
+      },
+      "username": {
+        "minChars": "Mínimo 3 caracteres.",
+        "success": "Usuario actualizado.",
+        "error": "No se pudo actualizar."
+      },
+      "report": {
+        "success": "Reporte enviado.",
+        "error": "No se pudo enviar.",
+        "title": "Reportar usuario",
+        "description": "Selecciona el motivo. Nuestro equipo revisará la incidencia.",
+        "label": "Motivo:",
+        "placeholder": "Selecciona...",
+        "cancel": "Cancelar",
+        "submit": "Enviar",
+        "reasons": {
+          "spam": "Spam o bot",
+          "harassment": "Acoso",
+          "hate_speech": "Discurso de odio",
+          "inappropriate": "Contenido inapropiado",
+          "other": "Otro"
+        }
+      }
+    }
+  },
+  "stories": {
+    "title": "Historias de la comunidad",
+    "items": [
+      {
+        "title": "Conexiones locales",
+        "content": "\"Finalmente encontré gente real en Valencia. Sin bots y con moderación rápida.\"",
+        "author": "Sergio, Valencia"
+      },
+      {
+        "title": "Ambiente seguro",
+        "content": "\"Me siento tranquila compartiendo aquí. La privacidad y las normas se respetan.\"",
+        "author": "Laura, Ruzafa"
+      },
+      {
+        "title": "Planes de fin de semana",
+        "content": "\"Organizamos quedadas para conciertos y rutas por la ciudad. Es un espacio variado y cercano.\"",
+        "author": "Marina, Benimaclet"
+      },
+      {
+        "title": "Sin ruido comercial",
+        "content": "\"No hay spam ni anuncios molestos. Solo gente de Valencia con ganas de conversar y ayudarse.\"",
+        "author": "Raúl, El Carmen"
+      }
+    ]
+  },
+  "safety": {
+    "title": "Seguridad y confianza",
+    "items": [
+      {
+        "icon": "Shield",
+        "title": "Moderación experta",
+        "content": "Equipo local con protocolos anti-bots, revisión manual y respuestas en minutos."
+      },
+      {
+        "icon": "Lock",
+        "title": "Privacidad por defecto",
+        "content": "Datos mínimos, cifrado, servidores en la UE y controles claros."
+      },
+      {
+        "icon": "Heart",
+        "title": "Comunidad respetuosa",
+        "content": "Normas claras, cultura de consentimiento y bloqueo/reportes accesibles."
+      }
+    ]
+  },
+  "footer": {
+    "links": [
+      { "label": "Sobre nosotros", "href": "/sobre-nosotros" },
+      { "label": "Privacidad", "href": "/privacidad" },
+      { "label": "Términos", "href": "/terminos" },
+      { "label": "Guía de seguridad", "href": "/seguridad" },
+      { "label": "Contacto", "href": "/contacto" },
+      { "label": "Aviso legal", "href": "/aviso-legal" }
+    ],
+    "copyright": "ChatValencia.net. Todos los derechos reservados.",
+    "disclaimer": "Solo mayores de 18 años. Comunidad moderada y segura."
+  },
+  "cookieConsent": {
+    "message": "Usamos cookies esenciales para seguridad y funcionamiento.",
+    "acceptText": "Aceptar",
+    "declineText": "Rechazar",
+    "privacyText": "Privacidad",
+    "privacyLink": "/privacidad",
+    "impressumText": "Aviso legal",
+    "impressumLink": "/aviso-legal"
+  },
+  "pages": {
+    "about": {
+      "slug": "sobre-nosotros",
+      "title": "Sobre ChatValencia.net",
+      "description": "Plataforma técnica y moderada para la comunidad de Valencia.",
+      "content": [
+        {
+          "heading": "Misión",
+          "text": "Facilitar encuentros reales y seguros en Valencia. Contenido curado, equipo visible y procesos auditables para maximizar la confianza."
+        },
+        {
+          "heading": "Seguridad avanzada",
+          "text": "Verificación, anti-spam, bloqueo por sitio y revisión manual. Minimización de datos: solo usuario y contraseña."
+        },
+        {
+          "heading": "Calidad y soporte",
+          "text": "Respuesta humana en horas, normas estrictas y formación en moderación y diversidad."
+        },
+        {
+          "heading": "Comunidad diversa",
+          "text": "Espacios temáticos para ocio, estudio, tecnología, deporte y cultura local. Todo moderado con criterios claros y transparencia."
+        },
+        {
+          "heading": "Experiencia sin distracciones",
+          "text": "Interfaz ligera, sin anuncios invasivos y con herramientas simples para filtrar y reportar contenido no deseado."
+        }
+      ]
+    },
+    "privacy": {
+      "slug": "privacidad",
+      "title": "Privacidad",
+      "description": "Protegemos tu identidad y reducimos al mínimo tus datos.",
+      "content": [
+        { "heading": "Datos mínimos", "text": "No pedimos nombre real ni ubicación. Guardamos solo lo necesario para operar." },
+        { "heading": "Sin venta de datos", "text": "No compartimos con terceros con fines comerciales." },
+        { "heading": "Control del usuario", "text": "Puedes solicitar borrado completo de tu cuenta y mensajes." }
+      ]
+    },
+    "terms": {
+      "slug": "terminos",
+      "title": "Términos de uso",
+      "description": "Normas para un espacio seguro y legal.",
+      "content": [
+        { "heading": "Respeto y consentimiento", "text": "Cero tolerancia a acoso, doxing o discurso de odio." },
+        { "heading": "Contenido", "text": "Prohibido spam, suplantación o material ilegal." },
+        { "heading": "Edad mínima", "text": "Solo 18+. Violaciones implican suspensión inmediata." }
+      ]
+    },
+    "safety": {
+      "slug": "seguridad",
+      "title": "Guía de seguridad",
+      "description": "Buenas prácticas para mantenerte seguro/a online y offline.",
+      "content": [
+        { "heading": "Protege tu identidad", "text": "No compartas datos sensibles. Usa contraseñas únicas." },
+        { "heading": "Quedadas", "text": "Siempre en lugares públicos, informa a alguien de confianza." },
+        { "heading": "Reportes rápidos", "text": "Usa el botón de reporte ante cualquier riesgo o abuso." }
+      ]
+    },
+    "contact": {
+      "slug": "contacto",
+      "title": "Contacto",
+      "form": {
+        "namePlaceholder": "Tu nombre",
+        "emailPlaceholder": "Tu email",
+        "messagePlaceholder": "Mensaje",
+        "submit": "Enviar",
+        "sending": "Enviando...",
+        "success": "Mensaje enviado",
+        "error": "No se pudo enviar"
+      },
+      "description": "Soporte local y rápido.",
+      "content": [
+        { "heading": "Soporte", "text": "Resolvemos incidencias técnicas y de seguridad." },
+        { "heading": "Moderación", "text": "Reportes urgentes: priorizamos la seguridad de la comunidad." }
+      ]
+    },
+    "impressum": {
+      "slug": "aviso-legal",
+      "title": "Aviso legal",
+      "description": "Información y contacto legal.",
+      "content": [
+        { "heading": "Operador", "text": "Proyecto comunitario sin venta de datos." },
+        { "heading": "Contacto legal", "text": "Email: contacto@chatvalencia.net" },
+        { "heading": "Responsabilidad", "text": "No nos responsabilizamos por contenido de terceros enlazados." }
+      ]
+    }
+  }
+}
+

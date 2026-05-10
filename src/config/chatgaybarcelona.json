@@ -1,0 +1,233 @@
+{
+  "assets": {
+    "heroBackground": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1950&q=80",
+    "chatBackground": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1600&q=80",
+    "chatBackgroundRepeat": "no-repeat",
+    "chatBackgroundSize": "cover",
+    "avatarApi": "",
+    "faviconPath": "/favicons/chatgaybarcelona"
+  },
+  "metadata": {
+    "title": "Chat Gay Barcelona | Chat gay segur a Barcelona",
+    "description": "ChatGayBarcelona.com connecta la comunitat gay a Barcelona amb seguretat, moderació i privadesa. Sense bots, amb moderació visible i SEO tècnic.",
+    "keywords": [
+      "chat gay barcelona",
+      "chat lgtb barcelona",
+      "ligar barcelona",
+      "comunidad gay bcn",
+      "chat seguro",
+      "sin bots",
+      "grupos lgbt barcelona",
+      "ambient barcelona",
+      "oci gay barcelona",
+      "festes lgtb barcelona"
+    ],
+    "openGraph": {
+      "title": "ChatGayBarcelona.com - Comunidad segura en Barcelona",
+      "description": "Habla con personas reales en Barcelona. Moderación activa y datos mínimos.",
+      "siteName": "ChatGayBarcelona.com",
+      "locale": "es_ES",
+      "type": "website"
+    },
+    "alternates": { "languages": { "es": "/sobre-nosaltres" } }
+  },
+  "header": { "logoText": "chatgaybarcelona.com" },
+  "hero": {
+    "title": "El chat seguro de Barcelona",
+    "subtitle": "Tecnologia i moderació per a la comunitat LGTBIQ+ a Barcelona. Dades mínimes i control per lloc.",
+    "features": [
+      { "icon": "ShieldCheck", "text": "Moderación visible" },
+      { "icon": "Lock", "text": "Privacidad y cifrado" },
+      { "icon": "Users", "text": "Personas reales" }
+    ]
+  },
+  "auth": {
+    "usernamePlaceholder": "Nom d'usuari / Nombre de usuario",
+    "passwordPlaceholder": "Contrasenya / Contraseña (opcional convidats)",
+    "guestButton": "Entrar com a convidat / Entrar como invitado",
+    "signInGoogle": "Entrar amb Google",
+    "signInFacebook": "Entrar amb Facebook",
+    "or": "o",
+    "loginButton": "Accedir",
+    "loginError": "Error en l'inici de sessió",
+    "connectionError": "Error de connexió",
+    "errors": {
+      "incorrectPassword": "Contrasenya incorrecta",
+      "missingUsername": "Falta el nom d'usuari",
+      "usernameTaken": "Nom ocupat"
+    }
+  },
+  "ageVerification": {
+    "title": "Verificació 18+",
+    "text": "Només majors d'edat. Continuar implica confirmar-ho.",
+    "yesButton": "Sí, tinc 18+",
+    "noButton": "Sortir"
+  },
+  "dashboard": {
+    "loading": "Carregant...",
+    "publicChat": "Xat públic",
+    "channelsTitle": "Canals",
+    "createChannelTitle": "Crear canal",
+    "usersTitle": "Usuaris",
+    "rulesButton": "Normes",
+    "logout": "Tancar sessió",
+    "auth": {
+      "signIn": "Entrar",
+      "signUp": "Registrar",
+      "signInGoogle": "Entrar amb Google",
+      "signInFacebook": "Entrar amb Facebook",
+      "email": "Correu",
+      "password": "Contrasenya",
+      "confirmPassword": "Confirmar contrasenya",
+      "username": "Usuari",
+      "or": "o"
+    },
+    "changeUsername": "Canviar usuari",
+    "profilePic": "Canviar avatar",
+    "messagePlaceholder": "Escriu un missatge...",
+    "online": "En línia",
+    "timeAgo": { "m": "fa {t}m", "h": "fa {t}h", "d": "fa {t}d" },
+    "notifications": { "newMessage": "Nou missatge a", "channel": "un canal", "dm": "un privat" },
+    "messages": { "report": "Reportar usuari", "sendError": "Error en enviar", "connectionError": "Error de connexió" },
+    "modals": {
+      "rules": { "close": "Tancar" },
+      "createChannel": {
+        "title": "Crear canal",
+        "placeholder": "Nom del canal",
+        "cancel": "Cancel·lar",
+        "submit": "Crear",
+        "success": "Canal creat",
+        "error": "No s'ha pogut crear"
+      },
+      "username": { "minChars": "Mínim 3 caràcters.", "success": "Usuari actualitzat.", "error": "No s'ha pogut actualitzar." },
+      "report": {
+        "success": "Report enviat.",
+        "error": "No s'ha pogut enviar.",
+        "title": "Reportar usuari",
+        "description": "Selecciona el motiu. Moderació ràpida.",
+        "label": "Motiu:",
+        "placeholder": "Selecciona...",
+        "cancel": "Cancel·lar",
+        "submit": "Enviar",
+        "reasons": {
+          "spam": "Spam o bot",
+          "harassment": "Assetjament",
+          "hate_speech": "Discurs d'odi",
+          "inappropriate": "Contingut inapropiat",
+          "other": "Altres"
+        }
+      }
+    }
+  },
+  "stories": {
+    "title": "Experiències locals",
+    "items": [
+      { "title": "Sense bots", "content": "\"Barcelona mereixia un xat net i moderat. Això és.\"", "author": "Pol, BCN" },
+      { "title": "Privacitat", "content": "\"M'agrada que només necessiten usuari i contrasenya.\"", "author": "Javi, Gràcia" },
+      { "title": "Plans al barri", "content": "\"Quedem per vermuts, rutes i festes. Tot amb gent real i moderació visible.\"", "author": "Mar, Poblenou" },
+      { "title": "Respostes ràpides", "content": "\"Reporto spam i el treuen en minuts. Dona confiança.\"", "author": "Joan, Eixample" }
+    ]
+  },
+  "safety": {
+    "title": "Seguretat i confiança",
+    "items": [
+      { "icon": "Shield", "title": "Moderació local", "content": "Anti-spam, verificació i resposta humana." },
+      { "icon": "Lock", "title": "Privacitat mínima", "content": "Dades mínimes, xifratge i supervisió activa." },
+      { "icon": "Heart", "title": "Respecte i consentiment", "content": "Bloquejos i reportes accessibles." }
+    ]
+  },
+  "footer": {
+    "links": [
+      { "label": "Sobre nosaltres", "href": "/sobre-nosaltres" },
+      { "label": "Privacitat", "href": "/privacitat" },
+      { "label": "Termes", "href": "/termes" },
+      { "label": "Seguretat", "href": "/seguretat" },
+      { "label": "Contacte", "href": "/contacte" },
+      { "label": "Avís legal", "href": "/avis-legal" }
+    ],
+    "copyright": "ChatGayBarcelona.com. Tots els drets reservats.",
+    "disclaimer": "Només 18+. Comunitat moderada."
+  },
+  "cookieConsent": {
+    "message": "Fem servir cookies essencials per a la seguretat i el funcionament.",
+    "acceptText": "Acceptar",
+    "declineText": "Rebutjar",
+    "privacyText": "Privacitat",
+    "privacyLink": "/privacitat",
+    "impressumText": "Avís legal",
+    "impressumLink": "/avis-legal"
+  },
+  "pages": {
+    "about": {
+      "slug": "sobre-nosaltres",
+      "title": "Sobre ChatGayBarcelona.com",
+      "description": "Plataforma tècnica i moderada per a la comunitat LGTBIQ+ de Barcelona.",
+      "content": [
+        { "heading": "Missió", "text": "Crear un espai segur, ràpid i sense soroll comercial." },
+        { "heading": "Seguretat", "text": "Anti-spam, dades mínimes i revisió manual." },
+        { "heading": "Canals temàtics", "text": "Sales per oci, cultura, salut, esport i viatges per a la comunitat LGBTQ+." },
+        { "heading": "Experiència neta", "text": "Sense anuncis intrusius; filtres i report per mantenir el xat net i segur." },
+        { "heading": "Equip proper", "text": "Moderació identificable, normes clares i suport àgil quan hi ha incidències." }
+      ]
+    },
+    "privacy": {
+      "slug": "privacitat",
+      "title": "Privacitat",
+      "description": "Protegim la teva identitat.",
+      "content": [
+        { "heading": "Dades mínimes", "text": "Sense noms reals ni ubicació." },
+        { "heading": "Sense venda de dades", "text": "No compartim amb tercers comercials." },
+        { "heading": "Esborrat total", "text": "Pots sol·licitar eliminar el teu compte." }
+      ]
+    },
+    "terms": {
+      "slug": "termes",
+      "title": "Termes",
+      "description": "Normes per a un espai segur.",
+      "content": [
+        { "heading": "Respecte", "text": "Zero assetjament o discurs d'odi." },
+        { "heading": "Contingut", "text": "Prohibit spam i suplantació." },
+        { "heading": "Edat", "text": "Només majors de 18." }
+      ]
+    },
+    "safety": {
+      "slug": "seguretat",
+      "title": "Seguretat",
+      "description": "Bones pràctiques per a la teva seguretat.",
+      "content": [
+        { "heading": "Identitat", "text": "No comparteixis dades sensibles." },
+        { "heading": "Trobades", "text": "Llocs públics i avisar algú." },
+        { "heading": "Reportes", "text": "Fes servir el botó de report per riscos." }
+      ]
+    },
+    "contact": {
+      "slug": "contacte",
+      "title": "Contacte",
+      "form": {
+        "namePlaceholder": "Nom",
+        "emailPlaceholder": "Correu",
+        "messagePlaceholder": "Missatge",
+        "submit": "Enviar",
+        "sending": "Enviant...",
+        "success": "Missatge enviat",
+        "error": "No s'ha pogut enviar"
+      },
+      "description": "Suport ràpid i proper.",
+      "content": [
+        { "heading": "Suport", "text": "Ajuda tècnica i moderació." },
+        { "heading": "Reportes", "text": "Prioritzem seguretat i abusos." }
+      ]
+    },
+    "impressum": {
+      "slug": "avis-legal",
+      "title": "Avís legal",
+      "description": "Informació legal i contacte.",
+      "content": [
+        { "heading": "Operador", "text": "Projecte comunitari sense venda de dades." },
+        { "heading": "Contacte", "text": "Email: legal@chatgaybarcelona.com" },
+        { "heading": "Responsabilitat", "text": "No responem per llocs enllaçats." }
+      ]
+    }
+  }
+}
+

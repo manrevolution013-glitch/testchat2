@@ -1,0 +1,233 @@
+{
+  "assets": {
+    "heroBackground": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1950&q=80",
+    "chatBackground": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80",
+    "chatBackgroundRepeat": "no-repeat",
+    "chatBackgroundSize": "cover",
+    "avatarApi": "",
+    "faviconPath": "/favicons/chatgaysevilla"
+  },
+  "metadata": {
+    "title": "Chat Gay Sevilla | Comunidad gay segura en Sevilla",
+    "description": "ChatGaySevilla.com es tu chat gay verificado en Sevilla. Seguridad, moderación y privacidad. Sin bots, solo personas reales.",
+    "keywords": [
+      "chat gay sevilla",
+      "chat lgtb sevilla",
+      "conocer gente sevilla",
+      "comunidad gay sevilla",
+      "chat seguro",
+      "sin bots",
+      "ligar sevilla",
+      "fiesta gay sevilla",
+      "bares lgtb sevilla",
+      "eventos gay sevilla"
+    ],
+    "openGraph": {
+      "title": "ChatGaySevilla.com - Comunidad segura en Sevilla",
+      "description": "Conecta con personas reales en Sevilla en un entorno moderado y privado.",
+      "siteName": "ChatGaySevilla.com",
+      "locale": "es_ES",
+      "type": "website"
+    },
+    "alternates": { "languages": { "es": "/sobre-nosotros" } }
+  },
+  "header": { "logoText": "chatgaysevilla.com" },
+  "hero": {
+    "title": "El chat seguro de Sevilla",
+    "subtitle": "Tecnología, moderación y cercanía para la comunidad LGTBIQ+ sevillana. Privacidad por defecto, datos mínimos.",
+    "features": [
+      { "icon": "ShieldCheck", "text": "Moderación activa" },
+      { "icon": "Lock", "text": "Privacidad y cifrado" },
+      { "icon": "Users", "text": "Personas reales" }
+    ]
+  },
+  "auth": {
+    "usernamePlaceholder": "Nombre de usuario",
+    "passwordPlaceholder": "Contraseña (opcional invitados)",
+    "guestButton": "Entrar como invitado",
+    "signInGoogle": "Entrar con Google",
+    "signInFacebook": "Entrar con Facebook",
+    "or": "o",
+    "loginButton": "Acceder",
+    "loginError": "Error al iniciar sesión",
+    "connectionError": "Error de conexión",
+    "errors": {
+      "incorrectPassword": "Contraseña incorrecta",
+      "missingUsername": "Falta el nombre de usuario",
+      "usernameTaken": "Nombre ocupado"
+    }
+  },
+  "ageVerification": {
+    "title": "Verificación 18+",
+    "text": "Solo mayores de edad. Continuar implica confirmarlo.",
+    "yesButton": "Sí, soy mayor de 18",
+    "noButton": "Salir"
+  },
+  "dashboard": {
+    "loading": "Cargando...",
+    "publicChat": "Chat público",
+    "channelsTitle": "Canales",
+    "createChannelTitle": "Crear canal",
+    "usersTitle": "Usuarios",
+    "rulesButton": "Normas",
+    "logout": "Cerrar sesión",
+    "auth": {
+      "signIn": "Entrar",
+      "signUp": "Registro",
+      "signInGoogle": "Entrar con Google",
+      "signInFacebook": "Entrar con Facebook",
+      "email": "Correo",
+      "password": "Contraseña",
+      "confirmPassword": "Confirmar contraseña",
+      "username": "Usuario",
+      "or": "o"
+    },
+    "changeUsername": "Cambiar usuario",
+    "profilePic": "Cambiar avatar",
+    "messagePlaceholder": "Escribe un mensaje...",
+    "online": "En línea",
+    "timeAgo": { "m": "hace {t}m", "h": "hace {t}h", "d": "hace {t}d" },
+    "notifications": { "newMessage": "Nuevo mensaje en", "channel": "un canal", "dm": "un privado" },
+    "messages": { "report": "Reportar usuario", "sendError": "Error al enviar", "connectionError": "Error de conexión" },
+    "modals": {
+      "rules": { "close": "Cerrar" },
+      "createChannel": {
+        "title": "Crear canal",
+        "placeholder": "Nombre del canal",
+        "cancel": "Cancelar",
+        "submit": "Crear",
+        "success": "Canal creado",
+        "error": "No se pudo crear"
+      },
+      "username": { "minChars": "Mínimo 3 caracteres.", "success": "Usuario actualizado.", "error": "No se pudo actualizar." },
+      "report": {
+        "success": "Reporte enviado.",
+        "error": "No se pudo enviar.",
+        "title": "Reportar usuario",
+        "description": "Describe el motivo. Moderación responde rápido.",
+        "label": "Motivo:",
+        "placeholder": "Selecciona...",
+        "cancel": "Cancelar",
+        "submit": "Enviar",
+        "reasons": {
+          "spam": "Spam o bot",
+          "harassment": "Acoso",
+          "hate_speech": "Discurso de odio",
+          "inappropriate": "Contenido inapropiado",
+          "other": "Otro"
+        }
+      }
+    }
+  },
+  "stories": {
+    "title": "Historias locales",
+    "items": [
+      { "title": "Ambiente sevillano", "content": "\"Gente real, sin ruido comercial. Moderación rápida.\"", "author": "Carlos, Sevilla" },
+      { "title": "Privacidad", "content": "\"Solo usuario y contraseña. Justo lo que buscaba.\"", "author": "Lucía, Nervión" },
+      { "title": "Quedadas", "content": "\"Montamos planes para ferias, rutas y bares. Todo con gente verificada.\"", "author": "Andrés, Triana" },
+      { "title": "Sin spam", "content": "\"No hay anuncios ni bots. Moderación visible y respuestas en minutos.\"", "author": "Marta, La Macarena" }
+    ]
+  },
+  "safety": {
+    "title": "Seguridad y confianza",
+    "items": [
+      { "icon": "Shield", "title": "Moderación local", "content": "Anti-spam, verificación y respuesta humana." },
+      { "icon": "Lock", "title": "Privacidad mínima", "content": "Datos mínimos, cifrado y supervisión activa." },
+      { "icon": "Heart", "title": "Respeto y consentimiento", "content": "Bloqueos y reportes accesibles." }
+    ]
+  },
+  "footer": {
+    "links": [
+      { "label": "Sobre nosotros", "href": "/sobre-nosotros" },
+      { "label": "Privacidad", "href": "/privacidad" },
+      { "label": "Términos", "href": "/terminos" },
+      { "label": "Seguridad", "href": "/seguridad" },
+      { "label": "Contacto", "href": "/contacto" },
+      { "label": "Aviso legal", "href": "/aviso-legal" }
+    ],
+    "copyright": "ChatGaySevilla.com. Todos los derechos reservados.",
+    "disclaimer": "Solo 18+. Comunidad moderada."
+  },
+  "cookieConsent": {
+    "message": "Usamos cookies esenciales para seguridad y funcionamiento.",
+    "acceptText": "Aceptar",
+    "declineText": "Rechazar",
+    "privacyText": "Privacidad",
+    "privacyLink": "/privacidad",
+    "impressumText": "Aviso legal",
+    "impressumLink": "/aviso-legal"
+  },
+  "pages": {
+    "about": {
+      "slug": "sobre-nosotros",
+      "title": "Sobre ChatGaySevilla.com",
+      "description": "Espacio técnico y moderado para la comunidad LGTBIQ+ sevillana.",
+      "content": [
+        { "heading": "Misión", "text": "Conectar con seguridad y respeto en Sevilla." },
+        { "heading": "Seguridad", "text": "Anti-spam, datos mínimos y revisión manual." },
+        { "heading": "Canales locales", "text": "Salas para ocio, cultura, salud, deporte y viajes con foco sevillano." },
+        { "heading": "Experiencia sin ruido", "text": "Sin anuncios invasivos; filtros rápidos y reportes a un clic para mantener el chat limpio." },
+        { "heading": "Equipo visible", "text": "Moderadores identificables, normas claras y soporte ágil para cualquier incidencia." }
+      ]
+    },
+    "privacy": {
+      "slug": "privacidad",
+      "title": "Privacidad",
+      "description": "Protegemos tu identidad y datos.",
+      "content": [
+        { "heading": "Datos mínimos", "text": "Sin nombres reales ni ubicación." },
+        { "heading": "Sin venta de datos", "text": "No compartimos con terceros comerciales." },
+        { "heading": "Borrado total", "text": "Puedes solicitar eliminar tu cuenta." }
+      ]
+    },
+    "terms": {
+      "slug": "terminos",
+      "title": "Términos",
+      "description": "Reglas para mantener un espacio seguro.",
+      "content": [
+        { "heading": "Respeto", "text": "Cero acoso o discurso de odio." },
+        { "heading": "Contenido", "text": "Prohibido spam y suplantación." },
+        { "heading": "Edad", "text": "Solo mayores de 18." }
+      ]
+    },
+    "safety": {
+      "slug": "seguridad",
+      "title": "Seguridad",
+      "description": "Recomendaciones para tu seguridad.",
+      "content": [
+        { "heading": "Identidad", "text": "No compartas datos sensibles." },
+        { "heading": "Quedadas", "text": "Lugares públicos e informa a alguien." },
+        { "heading": "Reportes", "text": "Usa el reporte ante cualquier riesgo." }
+      ]
+    },
+    "contact": {
+      "slug": "contacto",
+      "title": "Contacto",
+      "form": {
+        "namePlaceholder": "Tu nombre",
+        "emailPlaceholder": "Tu email",
+        "messagePlaceholder": "Mensaje",
+        "submit": "Enviar",
+        "sending": "Enviando...",
+        "success": "Mensaje enviado",
+        "error": "No se pudo enviar"
+      },
+      "description": "Soporte rápido y cercano.",
+      "content": [
+        { "heading": "Soporte", "text": "Ayuda técnica y moderación." },
+        { "heading": "Reportes", "text": "Priorizamos seguridad y abusos." }
+      ]
+    },
+    "impressum": {
+      "slug": "aviso-legal",
+      "title": "Aviso legal",
+      "description": "Información legal y contacto.",
+      "content": [
+        { "heading": "Operador", "text": "Proyecto comunitario sin venta de datos." },
+        { "heading": "Contacto", "text": "Email: legal@chatgaysevilla.com" },
+        { "heading": "Responsabilidad", "text": "No respondemos por sitios enlazados." }
+      ]
+    }
+  }
+}
+

@@ -1,0 +1,233 @@
+{
+  "assets": {
+    "heroBackground": "https://images.unsplash.com/photo-1445264718234-a623be589d37?auto=format&fit=crop&w=1950&q=80",
+    "chatBackground": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1600&q=80",
+    "chatBackgroundRepeat": "no-repeat",
+    "chatBackgroundSize": "cover",
+    "avatarApi": "",
+    "faviconPath": "/favicons/chatgaymadrid"
+  },
+  "metadata": {
+    "title": "Chat Gay Madrid | Chat gay seguro en Madrid",
+    "description": "ChatGayMadrid.com: conecta con gente gay real en Madrid con seguridad, moderación y privacidad. Sin bots, sin ruido comercial.",
+    "keywords": [
+      "chat gay madrid",
+      "chat lgtb madrid",
+      "chueca chat",
+      "ligar madrid",
+      "comunidad segura",
+      "chat sin bots",
+      "grupo lgbt madrid",
+      "bares gay madrid",
+      "eventos lgtb madrid",
+      "ocio gay madrid"
+    ],
+    "openGraph": {
+      "title": "ChatGayMadrid.com - Comunidad segura en Madrid",
+      "description": "Habla con personas reales en Madrid. Moderación activa y privacidad.",
+      "siteName": "ChatGayMadrid.com",
+      "locale": "es_ES",
+      "type": "website"
+    },
+    "alternates": { "languages": { "es": "/sobre-nosotros" } }
+  },
+  "header": { "logoText": "chatgaymadrid.com" },
+  "hero": {
+    "title": "El chat seguro de Madrid",
+    "subtitle": "Tecnología y moderación para la comunidad LGTBIQ+ madrileña. Datos mínimos y control total.",
+    "features": [
+      { "icon": "ShieldCheck", "text": "Moderación visible" },
+      { "icon": "Lock", "text": "Privacidad y cifrado" },
+      { "icon": "Users", "text": "Personas reales" }
+    ]
+  },
+  "auth": {
+    "usernamePlaceholder": "Nombre de usuario",
+    "passwordPlaceholder": "Contraseña (opcional invitados)",
+    "guestButton": "Entrar como invitado",
+    "signInGoogle": "Entrar con Google",
+    "signInFacebook": "Entrar con Facebook",
+    "or": "o",
+    "loginButton": "Acceder",
+    "loginError": "Error al iniciar sesión",
+    "connectionError": "Error de conexión",
+    "errors": {
+      "incorrectPassword": "Contraseña incorrecta",
+      "missingUsername": "Falta el nombre de usuario",
+      "usernameTaken": "Nombre ocupado"
+    }
+  },
+  "ageVerification": {
+    "title": "Verificación 18+",
+    "text": "Solo mayores de edad. Continuar implica confirmarlo.",
+    "yesButton": "Sí, soy mayor de 18",
+    "noButton": "Salir"
+  },
+  "dashboard": {
+    "loading": "Cargando...",
+    "publicChat": "Chat público",
+    "channelsTitle": "Canales",
+    "createChannelTitle": "Crear canal",
+    "usersTitle": "Usuarios",
+    "rulesButton": "Normas",
+    "logout": "Cerrar sesión",
+    "auth": {
+      "signIn": "Entrar",
+      "signUp": "Registro",
+      "signInGoogle": "Entrar con Google",
+      "signInFacebook": "Entrar con Facebook",
+      "email": "Correo",
+      "password": "Contraseña",
+      "confirmPassword": "Confirmar contraseña",
+      "username": "Usuario",
+      "or": "o"
+    },
+    "changeUsername": "Cambiar usuario",
+    "profilePic": "Cambiar avatar",
+    "messagePlaceholder": "Escribe un mensaje...",
+    "online": "En línea",
+    "timeAgo": { "m": "hace {t}m", "h": "hace {t}h", "d": "hace {t}d" },
+    "notifications": { "newMessage": "Nuevo mensaje en", "channel": "un canal", "dm": "un privado" },
+    "messages": { "report": "Reportar usuario", "sendError": "Error al enviar", "connectionError": "Error de conexión" },
+    "modals": {
+      "rules": { "close": "Cerrar" },
+      "createChannel": {
+        "title": "Crear canal",
+        "placeholder": "Nombre del canal",
+        "cancel": "Cancelar",
+        "submit": "Crear",
+        "success": "Canal creado",
+        "error": "No se pudo crear"
+      },
+      "username": { "minChars": "Mínimo 3 caracteres.", "success": "Usuario actualizado.", "error": "No se pudo actualizar." },
+      "report": {
+        "success": "Reporte enviado.",
+        "error": "No se pudo enviar.",
+        "title": "Reportar usuario",
+        "description": "Selecciona el motivo. Moderación responde rápido.",
+        "label": "Motivo:",
+        "placeholder": "Selecciona...",
+        "cancel": "Cancelar",
+        "submit": "Enviar",
+        "reasons": {
+          "spam": "Spam o bot",
+          "harassment": "Acoso",
+          "hate_speech": "Discurso de odio",
+          "inappropriate": "Contenido inapropiado",
+          "other": "Otro"
+        }
+      }
+    }
+  },
+  "stories": {
+    "title": "Historias locales",
+    "items": [
+      { "title": "Sin ruido", "content": "\"Buscaba un chat sin bots. Aquí funciona.\"", "author": "Raúl, Madrid" },
+      { "title": "Privado", "content": "\"Me gusta que no pidan datos extra ni teléfono.\"", "author": "Iván, Centro" },
+      { "title": "Planes y fiesta", "content": "\"Quedamos para conciertos, cine y afters en Chueca. Moderado y rápido.\"", "author": "Sergio, Lavapiés" },
+      { "title": "Ayuda real", "content": "\"Reporté spam y lo limpiaron en minutos. Da confianza.\"", "author": "Elena, Malasaña" }
+    ]
+  },
+  "safety": {
+    "title": "Seguridad y confianza",
+    "items": [
+      { "icon": "Shield", "title": "Moderación local", "content": "Anti-spam, verificación y respuesta humana." },
+      { "icon": "Lock", "title": "Privacidad mínima", "content": "Datos mínimos, cifrado y supervisión activa." },
+      { "icon": "Heart", "title": "Respeto y consentimiento", "content": "Bloqueos y reportes accesibles." }
+    ]
+  },
+  "footer": {
+    "links": [
+      { "label": "Sobre nosotros", "href": "/sobre-nosotros" },
+      { "label": "Privacidad", "href": "/privacidad" },
+      { "label": "Términos", "href": "/terminos" },
+      { "label": "Seguridad", "href": "/seguridad" },
+      { "label": "Contacto", "href": "/contacto" },
+      { "label": "Aviso legal", "href": "/aviso-legal" }
+    ],
+    "copyright": "ChatGayMadrid.com. Todos los derechos reservados.",
+    "disclaimer": "Solo 18+. Comunidad moderada."
+  },
+  "cookieConsent": {
+    "message": "Usamos cookies esenciales para seguridad y funcionamiento.",
+    "acceptText": "Aceptar",
+    "declineText": "Rechazar",
+    "privacyText": "Privacidad",
+    "privacyLink": "/privacidad",
+    "impressumText": "Aviso legal",
+    "impressumLink": "/aviso-legal"
+  },
+  "pages": {
+    "about": {
+      "slug": "sobre-nosotros",
+      "title": "Sobre ChatGayMadrid.com",
+      "description": "Plataforma técnica y moderada para la comunidad LGTBIQ+ madrileña.",
+      "content": [
+        { "heading": "Misión", "text": "Crear un espacio seguro y sin ruido comercial." },
+        { "heading": "Seguridad", "text": "Anti-spam, datos mínimos y revisión manual." },
+        { "heading": "Canales temáticos", "text": "Salas para ocio, cultura, salud, deporte y viajes LGBTQ+ en Madrid." },
+        { "heading": "Experiencia limpia", "text": "Sin anuncios invasivos; filtros y reportes sencillos para mantener el chat seguro." },
+        { "heading": "Equipo visible", "text": "Moderadores identificables y normas claras para mantener el espacio ordenado." }
+      ]
+    },
+    "privacy": {
+      "slug": "privacidad",
+      "title": "Privacidad",
+      "description": "Protegemos tu identidad.",
+      "content": [
+        { "heading": "Datos mínimos", "text": "Sin nombres reales ni ubicación." },
+        { "heading": "Sin venta de datos", "text": "No compartimos con terceros comerciales." },
+        { "heading": "Borrado total", "text": "Puedes solicitar eliminar tu cuenta." }
+      ]
+    },
+    "terms": {
+      "slug": "terminos",
+      "title": "Términos",
+      "description": "Normas para un espacio seguro.",
+      "content": [
+        { "heading": "Respeto", "text": "Cero acoso o discurso de odio." },
+        { "heading": "Contenido", "text": "Prohibido spam y suplantación." },
+        { "heading": "Edad", "text": "Solo mayores de 18." }
+      ]
+    },
+    "safety": {
+      "slug": "seguridad",
+      "title": "Seguridad",
+      "description": "Recomendaciones para tu seguridad.",
+      "content": [
+        { "heading": "Identidad", "text": "No compartas datos sensibles." },
+        { "heading": "Quedadas", "text": "Lugares públicos e informa a alguien." },
+        { "heading": "Reportes", "text": "Usa el reporte ante cualquier riesgo." }
+      ]
+    },
+    "contact": {
+      "slug": "contacto",
+      "title": "Contacto",
+      "form": {
+        "namePlaceholder": "Tu nombre",
+        "emailPlaceholder": "Tu email",
+        "messagePlaceholder": "Mensaje",
+        "submit": "Enviar",
+        "sending": "Enviando...",
+        "success": "Mensaje enviado",
+        "error": "No se pudo enviar"
+      },
+      "description": "Soporte rápido y cercano.",
+      "content": [
+        { "heading": "Soporte", "text": "Ayuda técnica y moderación." },
+        { "heading": "Reportes", "text": "Priorizamos seguridad y abusos." }
+      ]
+    },
+    "impressum": {
+      "slug": "aviso-legal",
+      "title": "Aviso legal",
+      "description": "Información legal y contacto.",
+      "content": [
+        { "heading": "Operador", "text": "Proyecto comunitario sin venta de datos." },
+        { "heading": "Contacto", "text": "Email: legal@chatgaymadrid.com" },
+        { "heading": "Responsabilidad", "text": "No respondemos por sitios enlazados." }
+      ]
+    }
+  }
+}
+

@@ -1,0 +1,358 @@
+{
+  "assets": {
+    "heroBackground": "https://images.unsplash.com/photo-1517840933442-d2e88e08246c?auto=format&fit=crop&w=1950&q=80",
+    "chatBackground": "https://images.unsplash.com/photo-1557683311-eac922347735?auto=format&fit=crop&w=1950&q=80",
+    "chatBackgroundRepeat": "no-repeat",
+    "chatBackgroundSize": "cover",
+    "avatarApi": "",
+    "faviconPath": "/favicons/femdomchat"
+  },
+  "metadata": {
+    "title": "Femdom Chat — Consent-Forward Adult Discussion Community | FemdomChat.net",
+    "description": "FemdomChat.net is an English, adults-only (18+) moderated chat for respectful discussion of female-led dynamics, boundaries, and relationships — with published rules, privacy transparency, and safety resources. Not a substitute for therapy or emergency services.",
+    "keywords": [
+      "femdom chat",
+      "female led relationship discussion",
+      "consensual dynamics chat 18+",
+      "moderated adult chat",
+      "BDSM education chat",
+      "respectful femdom community",
+      "online FLR forum",
+      "safe adult chat room"
+    ],
+    "openGraph": {
+      "title": "FemdomChat.net — Moderated Adult Community Chat",
+      "description": "English-language chat emphasizing consent, negotiation, and member safety. Clear policies, reporting workflow, and structured guidance pages.",
+      "siteName": "FemdomChat.net",
+      "locale": "en_US",
+      "type": "website"
+    },
+    "alternates": {
+      "languages": {
+        "en": "/",
+        "x-default": "/"
+      }
+    }
+  },
+  "header": {
+    "logoText": "femdomchat.net"
+  },
+  "hero": {
+    "title": "Thoughtful conversation for adults who value consent first",
+    "subtitle": "FemdomChat.net hosts live English chat about female-led relationships and related topics only where everything is consensual, risk-aware, and respectful. We demonstrate EEAT through explicit policies: you will find moderation standards, privacy disclosures, and safety articles written for real-world decision-making — not sensational clickbait.",
+    "features": [
+      {
+        "icon": "ShieldCheck",
+        "text": "Strict anti-harassment enforcement"
+      },
+      {
+        "icon": "Users",
+        "text": "Education-forward culture"
+      },
+      {
+        "icon": "Lock",
+        "text": "Transparent data practices"
+      }
+    ]
+  },
+  "auth": {
+    "usernamePlaceholder": "Choose a Username",
+    "passwordPlaceholder": "Password (Optional for Guests)",
+    "guestButton": "Join the Chat",
+    "signInGoogle": "Sign in with Google",
+    "signInFacebook": "Sign in with Facebook",
+    "or": "or",
+    "loginButton": "Login",
+    "loginError": "Login Failed",
+    "connectionError": "Connection Error",
+    "errors": {
+      "incorrectPassword": "Incorrect password",
+      "missingUsername": "Missing username",
+      "usernameTaken": "Username taken"
+    }
+  },
+  "ageVerification": {
+    "title": "Age Verification 18+",
+    "text": "This site discusses adult relationship themes. You must be at least 18 years old (or the age of majority where you live, whichever is higher) to continue.",
+    "yesButton": "Yes, I am 18+",
+    "noButton": "No, I am under 18"
+  },
+  "dashboard": {
+    "loading": "Loading...",
+    "publicChat": "Public Lounge",
+    "channelsTitle": "Topics",
+    "createChannelTitle": "New Topic",
+    "usersTitle": "Online Members",
+    "rulesButton": "Rules",
+    "logout": "Logout",
+    "auth": {
+      "signIn": "Sign In",
+      "signUp": "Sign Up",
+      "signInGoogle": "Sign in with Google",
+      "signInFacebook": "Sign in with Facebook",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "username": "Username",
+      "or": "or"
+    },
+    "changeUsername": "Change Username",
+    "profilePic": "Change Avatar",
+    "messagePlaceholder": "Type a message...",
+    "online": "Online",
+    "timeAgo": {
+      "m": "{t}m ago",
+      "h": "{t}h ago",
+      "d": "{t}d ago"
+    },
+    "notifications": {
+      "newMessage": "New message in",
+      "channel": "a channel",
+      "dm": "a DM"
+    },
+    "messages": {
+      "report": "Report User",
+      "sendError": "Failed to send",
+      "connectionError": "Connection error"
+    },
+    "modals": {
+      "rules": {
+        "close": "Close"
+      },
+      "createChannel": {
+        "title": "Start a New Topic",
+        "placeholder": "Topic Name",
+        "cancel": "Cancel",
+        "submit": "Create",
+        "success": "Topic created!",
+        "error": "Could not create topic"
+      },
+      "username": {
+        "minChars": "Username must be 3+ characters.",
+        "success": "Username updated.",
+        "error": "Could not update username."
+      },
+      "report": {
+        "success": "Report sent. Thank you for keeping us safe.",
+        "error": "Could not send report.",
+        "title": "Report User",
+        "description": "Please select a reason for reporting this content. We review all reports to maintain safety.",
+        "label": "Reason:",
+        "placeholder": "Select a reason...",
+        "cancel": "Cancel",
+        "submit": "Submit Report",
+        "reasons": {
+          "spam": "Spam or Bot",
+          "harassment": "Harassment or Bullying",
+          "hate_speech": "Hate Speech",
+          "inappropriate": "Inappropriate Content",
+          "other": "Other"
+        }
+      }
+    }
+  },
+  "stories": {
+    "title": "Why members stay",
+    "items": [
+      {
+        "title": "Negotiation before fantasy",
+        "content": "\"Other spaces jump straight into role-play spam. Here moderators remind people about consent language and limits. That professionalism keeps discussions grounded.\"",
+        "author": "R. — joined 2024"
+      },
+      {
+        "title": "Room for beginners and veterans",
+        "content": "\"I could ask basic vocabulary questions without mockery. Veterans pointed me to resources instead of gatekeeping.\"",
+        "author": "Morgan — joined 2025"
+      },
+      {
+        "title": "Harassment handled quickly",
+        "content": "\"Got an inappropriate DM — reported, account gone same day. Trust restored.\"",
+        "author": "Chris — joined 2023"
+      }
+    ]
+  },
+  "safety": {
+    "title": "Authority on safety starts with clear boundaries",
+    "items": [
+      {
+        "icon": "Shield",
+        "title": "Consent is non-negotiable",
+        "content": "We remove content that promotes coercion, stealthing, non-consensual exposure, or exploitation. Moderators interpret context — slogans are not a substitute for informed consent."
+      },
+      {
+        "icon": "Lock",
+        "title": "Privacy & discretion",
+        "content": "Read our Privacy Policy for retention and processor details. Do not post identifiable third parties or intimate media without verified consent — violations lead to bans and cooperation with law enforcement when mandated."
+      },
+      {
+        "icon": "Heart",
+        "title": "Member education",
+        "content": "Our Safety Guide links mental-health caution: kink exploration should complement, not replace, professional care when needed."
+      }
+    ]
+  },
+  "footer": {
+    "links": [
+      {
+        "label": "About Us",
+        "href": "/about"
+      },
+      {
+        "label": "Privacy Policy",
+        "href": "/privacy"
+      },
+      {
+        "label": "Terms of Service",
+        "href": "/terms"
+      },
+      {
+        "label": "Safety Guide",
+        "href": "/safety"
+      },
+      {
+        "label": "Contact Us",
+        "href": "/contact"
+      },
+      {
+        "label": "Impressum",
+        "href": "/imprint"
+      }
+    ],
+    "copyright": "FemdomChat.net. All Rights Reserved.",
+    "disclaimer": "Adults only (18+). Educational and conversational — not medical or legal advice. Emergencies require real-world services."
+  },
+  "cookieConsent": {
+    "message": "We use cookies to ensure the site functions correctly and to improve your experience.",
+    "acceptText": "Accept",
+    "declineText": "Decline",
+    "privacyText": "Privacy Policy",
+    "privacyLink": "/privacy",
+    "impressumText": "Imprint",
+    "impressumLink": "/imprint"
+  },
+  "pages": {
+    "about": {
+      "slug": "about",
+      "title": "About FemdomChat.net",
+      "description": "Purpose, moderation philosophy, and trustworthiness for our adult chat.",
+      "content": [
+        {
+          "heading": "Purpose",
+          "text": "FemdomChat.net connects adults interested in female-led relationship dynamics and adjacent topics where consent, negotiation, and mutual respect are prerequisites — never optional extras."
+        },
+        {
+          "heading": "Moderation expertise",
+          "text": "Volunteer and staff moderators train on platform rules, escalation paths, and documentation updates. When edge cases arise, we prioritize victim safety and legal compliance over mere message volume."
+        },
+        {
+          "heading": "Transparency",
+          "text": "Policies spell out prohibited behavior, data handling, and contact routes. Transparency supports EEAT: experienced operators publish how decisions are made at a policy level even when individual cases remain confidential."
+        }
+      ]
+    },
+    "privacy": {
+      "slug": "privacy",
+      "title": "Privacy Policy",
+      "description": "Personal data practices for FemdomChat.net visitors and members.",
+      "content": [
+        {
+          "heading": "Categories of data",
+          "text": "Account identifiers, optional email, OAuth tokens, chat payloads, moderation logs tied to incidents, and technical telemetry needed for uptime/security."
+        },
+        {
+          "heading": "Legal bases",
+          "text": "Contract performance for signed-in users, legitimate interests for fraud prevention, consent where cookies exceed strict necessity — aligned with GDPR-style transparency."
+        },
+        {
+          "heading": "Retention",
+          "text": "Messages persist until user deletion or overriding legal hold. Security logs rotate on a schedule documented internally and available upon authenticated account inquiry."
+        }
+      ]
+    },
+    "terms": {
+      "slug": "terms",
+      "title": "Terms of Service",
+      "description": "Binding rules for participating in FemdomChat.net.",
+      "content": [
+        {
+          "heading": "Adults & conduct",
+          "text": "Only adults may participate. Harassment, hate speech, revenge tactics, financial scams, and encouragement of illegal acts are forbidden."
+        },
+        {
+          "heading": "Content responsibilities",
+          "text": "You warrant you have rights to media you upload/links you seed. We may remove allegedly infringing or abusive material pending investigation."
+        },
+        {
+          "heading": "Enforcement",
+          "text": "Violations may trigger warnings, mutes, or permanent bans. Circumvention attempts compound sanctions."
+        }
+      ]
+    },
+    "safety": {
+      "slug": "safety",
+      "title": "Safety Guide",
+      "description": "Risk awareness, negotiation habits, and crisis routing.",
+      "content": [
+        {
+          "heading": "Negotiate explicitly",
+          "text": "Document limits, safewords or equivalents, aftercare needs, and check-ins — especially online-to-offline transitions."
+        },
+        {
+          "heading": "Recognize manipulation",
+          "text": "Pressure to bypass limits, isolate from friends, or send compromising collateral are red flags. Step away and report."
+        },
+        {
+          "heading": "When to call professionals",
+          "text": "Mental health crises, intimate partner violence, or imminent self-harm require licensed responders — use local hotlines and emergency numbers."
+        }
+      ]
+    },
+    "contact": {
+      "slug": "contact",
+      "title": "Contact Us",
+      "form": {
+        "namePlaceholder": "Your Name",
+        "emailPlaceholder": "Your Email",
+        "messagePlaceholder": "Your Message",
+        "submit": "Send Message",
+        "sending": "Sending...",
+        "success": "Message sent!",
+        "error": "Failed to send message."
+      },
+      "description": "Operational and safety contacts.",
+      "content": [
+        {
+          "heading": "Support",
+          "text": "support@femdomchat.net — general assistance."
+        },
+        {
+          "heading": "Safety",
+          "text": "safety@femdomchat.net — harassment, exploitation concerns, law-enforcement inquiries routed appropriately."
+        },
+        {
+          "heading": "Legal",
+          "text": "legal@femdomchat.net — DMCA and regulatory correspondence."
+        }
+      ]
+    },
+    "impressum": {
+      "slug": "imprint",
+      "title": "Imprint",
+      "description": "Publisher details and external-link disclaimer.",
+      "content": [
+        {
+          "heading": "Operator",
+          "text": "FemdomChat.net service operator publication complies with applicable commercial disclosure statutes for its registered jurisdiction."
+        },
+        {
+          "heading": "Contact",
+          "text": "contact@femdomchat.net"
+        },
+        {
+          "heading": "External sites",
+          "text": "Linked resources are independent; their accuracy is their authors’ responsibility."
+        }
+      ]
+    }
+  }
+}

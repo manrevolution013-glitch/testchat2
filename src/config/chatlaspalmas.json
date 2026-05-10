@@ -1,0 +1,239 @@
+{
+  "assets": {
+    "heroBackground": "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?auto=format&fit=crop&w=1950&q=80",
+    "chatBackground": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80",
+    "chatBackgroundRepeat": "no-repeat",
+    "chatBackgroundSize": "cover",
+    "avatarApi": "",
+    "faviconPath": "/favicons/chatlaspalmas"
+  },
+  "metadata": {
+    "title": "Chat Las Palmas | Chat general seguro en Canarias",
+    "description": "ChatLasPalmas.com es el chat general verificado para conectar en Gran Canaria. Seguridad, moderación y conexiones reales. Únete gratis.",
+    "keywords": [
+      "chat las palmas",
+      "chat general canarias",
+      "chat gran canaria",
+      "ligar las palmas",
+      "comunidad segura",
+      "chat sin bots",
+      "planes canarias",
+      "foro las palmas",
+      "eventos canarias",
+      "amigos las palmas"
+    ],
+    "openGraph": {
+      "title": "ChatLasPalmas.com - Comunidad segura en Canarias",
+      "description": "Habla con personas reales en Las Palmas con privacidad y moderación activa.",
+      "siteName": "ChatLasPalmas.com",
+      "locale": "es_ES",
+      "type": "website"
+    },
+    "alternates": { "languages": { "es": "/sobre-nosotros" } }
+  },
+  "header": { "logoText": "chatlaspalmas.com" },
+  "hero": {
+    "title": "Conecta en Las Palmas con seguridad y respeto",
+    "subtitle": "Espacio técnico y moderado para la comunidad local en Canarias, con foco en privacidad y buen ambiente.",
+    "features": [
+      { "icon": "ShieldCheck", "text": "Moderación local" },
+      { "icon": "Lock", "text": "Privacidad avanzada" },
+      { "icon": "Users", "text": "Personas reales" }
+    ]
+  },
+  "auth": {
+    "usernamePlaceholder": "Nombre de usuario",
+    "passwordPlaceholder": "Contraseña (opcional para invitados)",
+    "guestButton": "Entrar como invitado",
+    "signInGoogle": "Entrar con Google",
+    "signInFacebook": "Entrar con Facebook",
+    "or": "o",
+    "loginButton": "Acceder",
+    "loginError": "Error al iniciar sesión",
+    "connectionError": "Error de conexión",
+    "errors": {
+      "incorrectPassword": "Contraseña incorrecta",
+      "missingUsername": "Falta el nombre de usuario",
+      "usernameTaken": "Nombre de usuario ocupado"
+    }
+  },
+  "ageVerification": {
+    "title": "Verificación 18+",
+    "text": "Solo mayores de 18 años. Al continuar confirmas tu mayoría de edad.",
+    "yesButton": "Sí, soy mayor de 18",
+    "noButton": "Salir"
+  },
+  "dashboard": {
+    "loading": "Cargando...",
+    "publicChat": "Chat público",
+    "channelsTitle": "Canales",
+    "createChannelTitle": "Crear canal",
+    "usersTitle": "Usuarios",
+    "rulesButton": "Normas",
+    "logout": "Cerrar sesión",
+    "auth": {
+      "signIn": "Entrar",
+      "signUp": "Registro",
+      "signInGoogle": "Entrar con Google",
+      "signInFacebook": "Entrar con Facebook",
+      "email": "Correo",
+      "password": "Contraseña",
+      "confirmPassword": "Confirmar contraseña",
+      "username": "Usuario",
+      "or": "o"
+    },
+    "changeUsername": "Cambiar usuario",
+    "profilePic": "Cambiar avatar",
+    "messagePlaceholder": "Escribe un mensaje...",
+    "online": "En línea",
+    "timeAgo": { "m": "hace {t}m", "h": "hace {t}h", "d": "hace {t}d" },
+    "notifications": { "newMessage": "Nuevo mensaje en", "channel": "un canal", "dm": "un privado" },
+    "messages": { "report": "Reportar usuario", "sendError": "Error al enviar", "connectionError": "Error de conexión" },
+    "modals": {
+      "rules": { "close": "Cerrar" },
+      "createChannel": {
+        "title": "Crear canal",
+        "placeholder": "Nombre del canal",
+        "cancel": "Cancelar",
+        "submit": "Crear",
+        "success": "Canal creado",
+        "error": "No se pudo crear"
+      },
+      "username": {
+        "minChars": "Mínimo 3 caracteres.",
+        "success": "Usuario actualizado.",
+        "error": "No se pudo actualizar."
+      },
+      "report": {
+        "success": "Reporte enviado.",
+        "error": "No se pudo enviar.",
+        "title": "Reportar usuario",
+        "description": "Explica el motivo. Revisamos cada reporte.",
+        "label": "Motivo:",
+        "placeholder": "Selecciona...",
+        "cancel": "Cancelar",
+        "submit": "Enviar",
+        "reasons": {
+          "spam": "Spam o bot",
+          "harassment": "Acoso",
+          "hate_speech": "Discurso de odio",
+          "inappropriate": "Contenido inapropiado",
+          "other": "Otro"
+        }
+      }
+    }
+  },
+  "stories": {
+    "title": "Experiencias reales",
+    "items": [
+      { "title": "Ambiente canario", "content": "\"Se nota que es local: cero spam y buena vibra.\"", "author": "Ayoze, Las Palmas" },
+      { "title": "Privacidad", "content": "\"Prefiero un chat sin datos extra. Aquí solo usuario y listo.\"", "author": "Marta, Triana" },
+      { "title": "Planes y eventos", "content": "\"Nos organizamos para surfear, ir a conciertos y tapas. Todo rápido y sin anuncios.\"",
+        "author": "Néstor, Guanarteme" },
+      { "title": "Ayuda rápida", "content": "\"La moderación responde en minutos y mantiene el ambiente limpio.\"",
+        "author": "Patricia, Vegueta" }
+    ]
+  },
+  "safety": {
+    "title": "Seguridad y confianza",
+    "items": [
+      { "icon": "Shield", "title": "Moderación experta", "content": "Equipo con protocolos anti-bots y revisión manual." },
+      { "icon": "Lock", "title": "Privacidad mínima", "content": "Datos mínimos, cifrado y supervisión activa." },
+      { "icon": "Heart", "title": "Cultura de respeto", "content": "Consentimiento y bloqueo/reportes accesibles." }
+    ]
+  },
+  "footer": {
+    "links": [
+      { "label": "Sobre nosotros", "href": "/sobre-nosotros" },
+      { "label": "Privacidad", "href": "/privacidad" },
+      { "label": "Términos", "href": "/terminos" },
+      { "label": "Seguridad", "href": "/seguridad" },
+      { "label": "Contacto", "href": "/contacto" },
+      { "label": "Aviso legal", "href": "/aviso-legal" }
+    ],
+    "copyright": "ChatLasPalmas.com. Todos los derechos reservados.",
+    "disclaimer": "Solo 18+. Plataforma moderada."
+  },
+  "cookieConsent": {
+    "message": "Usamos cookies esenciales para seguridad y funcionamiento.",
+    "acceptText": "Aceptar",
+    "declineText": "Rechazar",
+    "privacyText": "Privacidad",
+    "privacyLink": "/privacidad",
+    "impressumText": "Aviso legal",
+    "impressumLink": "/aviso-legal"
+  },
+  "pages": {
+    "about": {
+      "slug": "sobre-nosotros",
+      "title": "Sobre ChatLasPalmas.com",
+      "description": "Comunidad técnica y moderada para Las Palmas y Canarias.",
+      "content": [
+        { "heading": "Misión", "text": "Conectar a la gente de Canarias con seguridad y cercanía en un chat limpio y moderado." },
+        { "heading": "Seguridad", "text": "Anti-spam, revisión humana y datos mínimos con controles claros." },
+        { "heading": "Espacios temáticos", "text": "Canales para ocio, estudios, tecnología, deporte y cultura local, todos moderados." },
+        { "heading": "Experiencia sin ruido", "text": "Sin anuncios invasivos, con herramientas simples para filtrar y reportar." },
+        { "heading": "Equipo cercano", "text": "Moderadores visibles y soporte ágil para incidencias o dudas." }
+      ]
+    },
+    "privacy": {
+      "slug": "privacidad",
+      "title": "Privacidad",
+      "description": "Protegemos tu identidad.",
+      "content": [
+        { "heading": "Datos mínimos", "text": "Sin nombres reales ni ubicación." },
+        { "heading": "Sin venta de datos", "text": "No compartimos con terceros comerciales." },
+        { "heading": "Derecho al olvido", "text": "Solicita borrado total cuando quieras." }
+      ]
+    },
+    "terms": {
+      "slug": "terminos",
+      "title": "Términos",
+      "description": "Normas para un espacio seguro.",
+      "content": [
+        { "heading": "Respeto", "text": "Cero acoso o discurso de odio." },
+        { "heading": "Contenido", "text": "Prohibido spam y suplantación." },
+        { "heading": "Edad", "text": "Solo 18+." }
+      ]
+    },
+    "safety": {
+      "slug": "seguridad",
+      "title": "Seguridad",
+      "description": "Buenas prácticas online y offline.",
+      "content": [
+        { "heading": "Identidad", "text": "No compartas datos sensibles." },
+        { "heading": "Quedadas", "text": "Lugares públicos e informa a alguien." },
+        { "heading": "Reporta", "text": "Usa el botón de reporte ante riesgos." }
+      ]
+    },
+    "contact": {
+      "slug": "contacto",
+      "title": "Contacto",
+      "form": {
+        "namePlaceholder": "Tu nombre",
+        "emailPlaceholder": "Tu email",
+        "messagePlaceholder": "Mensaje",
+        "submit": "Enviar",
+        "sending": "Enviando...",
+        "success": "Mensaje enviado",
+        "error": "No se pudo enviar"
+      },
+      "description": "Soporte rápido y local.",
+      "content": [
+        { "heading": "Soporte", "text": "Ayuda técnica y moderación." },
+        { "heading": "Reportes", "text": "Prioridad a seguridad y abusos." }
+      ]
+    },
+    "impressum": {
+      "slug": "aviso-legal",
+      "title": "Aviso legal",
+      "description": "Información legal y contacto.",
+      "content": [
+        { "heading": "Operador", "text": "Proyecto comunitario sin venta de datos." },
+        { "heading": "Contacto", "text": "Email: contacto@chatlaspalmas.com" },
+        { "heading": "Responsabilidad", "text": "No respondemos por sitios enlazados." }
+      ]
+    }
+  }
+}
+

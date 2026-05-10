@@ -1,0 +1,362 @@
+{
+  "assets": {
+    "heroBackground": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1950&q=80",
+    "chatBackground": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1600&q=80",
+    "chatBackgroundRepeat": "no-repeat",
+    "chatBackgroundSize": "cover",
+    "avatarApi": "",
+    "faviconPath": "/favicons/balkanchat"
+  },
+  "metadata": {
+    "title": "Balkan Chat — Moderiran hrvatski chat za region i dijasporu | BalkanChat.net",
+    "description": "Službeni BalkanChat.net: javni, moderiran chat na hrvatskom za ljude iz regije i dijaspore. Jasna pravila, aktivna moderacija, naglasak na privatnosti i zaštiti članova — besplatno za punoljetne korisnice i korisnike (18+). Nismo automatizirani „bot chat”; ljudi provode pravila i odgovaraju na prijave.",
+    "keywords": [
+      "balkan chat",
+      "chat Balkan hrvatski",
+      "dijaspora chat Hrvatska",
+      "moderirani chat online",
+      "besplatni chat za odrasle",
+      "chat Srbija Hrvatska Bosna",
+      "siguran regionalni chat",
+      "druženje Balkan dijaspora",
+      "javni chat sobe",
+      "balkanchat.net"
+    ],
+    "openGraph": {
+      "title": "BalkanChat.net — regionalna zajednica uz transparentna pravila",
+      "description": "Pridruži se hrvatskom tekstualnom chatu za Balkan i dijasporu: moderacija, zaštita privatnosti i objavljeni vodiči za sigurnost podržavaju povjerljivost prostora.",
+      "siteName": "BalkanChat.net",
+      "locale": "hr_BA",
+      "type": "website"
+    },
+    "alternates": {
+      "languages": {
+        "hr": "/",
+        "bs": "/",
+        "sr-Latn": "/",
+        "x-default": "/"
+      }
+    }
+  },
+  "header": {
+    "logoText": "balkanchat.net"
+  },
+  "hero": {
+    "title": "Regionalni chat s naglaskom na poštovanje i transparentnost",
+    "subtitle": "BalkanChat.net okuplja punoljetne osobe koje žele dopisivati na hrvatskom — iz domovine, regije ili dijaspore — bez pretjerane šuma i bez skrivenih troškova. Objavljujemo kako moderiramo, što radimo s prijavama i koje podatke obrađujemo; to je dio EEAT pristupa (iskustvo, stručnost, autoritet, pouzdanost) koji tražimo i od članova: kultura suglasnosti i odgovornog dijeljenja.",
+    "features": [
+      {
+        "icon": "ShieldCheck",
+        "text": "Moderacija i jasna pravila"
+      },
+      {
+        "icon": "Users",
+        "text": "Zajednica regije i dijaspore"
+      },
+      {
+        "icon": "Lock",
+        "text": "Privatnost i kontrola računa"
+      }
+    ]
+  },
+  "auth": {
+    "usernamePlaceholder": "Odaberi korisničko ime",
+    "passwordPlaceholder": "Lozinka (opcionalno za goste)",
+    "guestButton": "Uđi u chat",
+    "signInGoogle": "Prijava s Googleom",
+    "signInFacebook": "Prijava s Facebookom",
+    "or": "ili",
+    "loginButton": "Prijava",
+    "loginError": "Prijava nije uspjela",
+    "connectionError": "Problem s vezom",
+    "errors": {
+      "incorrectPassword": "Netočna lozinka",
+      "missingUsername": "Nedostaje korisničko ime",
+      "usernameTaken": "Korisničko ime je zauzeto"
+    }
+  },
+  "ageVerification": {
+    "title": "Potvrda dobi 18+",
+    "text": "Ovaj prostor namijenjen je punoljetnim osobama. Nastavkom potvrđuješ da imaš 18 ili više godina te da razumiješ da chat može sadržavati teme za odrasle uz obavezno poštovanje zakona i pravila zajednice.",
+    "yesButton": "Da, imam 18+",
+    "noButton": "Ne, izlaz"
+  },
+  "dashboard": {
+    "loading": "Učitavanje...",
+    "publicChat": "Javni salon",
+    "channelsTitle": "Teme",
+    "createChannelTitle": "Nova tema",
+    "usersTitle": "Online članovi",
+    "rulesButton": "Pravila",
+    "logout": "Odjava",
+    "auth": {
+      "signIn": "Prijava",
+      "signUp": "Registracija",
+      "signInGoogle": "Prijava putem Googlea",
+      "signInFacebook": "Prijava putem Facebooka",
+      "email": "E-pošta",
+      "password": "Lozinka",
+      "confirmPassword": "Potvrda lozinke",
+      "username": "Korisničko ime",
+      "or": "ili"
+    },
+    "changeUsername": "Promijeni korisničko ime",
+    "profilePic": "Promijeni avatar",
+    "messagePlaceholder": "Upiši poruku...",
+    "online": "Online",
+    "timeAgo": {
+      "m": "prije {t} min",
+      "h": "prije {t} h",
+      "d": "prije {t} dana"
+    },
+    "notifications": {
+      "newMessage": "Nova poruka u",
+      "channel": "kanalu",
+      "dm": "privatnoj poruci"
+    },
+    "messages": {
+      "report": "Prijavi korisnika",
+      "sendError": "Slanje nije uspjelo",
+      "connectionError": "Poteškoće s vezom"
+    },
+    "modals": {
+      "rules": {
+        "close": "Zatvori"
+      },
+      "createChannel": {
+        "title": "Započni novu temu",
+        "placeholder": "Naziv teme",
+        "cancel": "Odustani",
+        "submit": "Stvori",
+        "success": "Tema je stvorena.",
+        "error": "Temu nije bilo moguće stvoriti."
+      },
+      "username": {
+        "minChars": "Korisničko ime mora imati najmanje 3 znaka.",
+        "success": "Korisničko ime je ažurirano.",
+        "error": "Ažuriranje nije uspjelo."
+      },
+      "report": {
+        "success": "Prijava je zaprimljena. Hvala što pomažeš održati zajednicu sigurnom.",
+        "error": "Prijava nije poslana. Pokušaj ponovno.",
+        "title": "Prijavi korisnika ili sadržaj",
+        "description": "Odaberi razlog kako bismo prioritetno obradili prijavu. Moderatori pregledaju kontekst, ne samo pojedinačne riječi.",
+        "label": "Razlog:",
+        "placeholder": "Odaberi razlog...",
+        "cancel": "Odustani",
+        "submit": "Pošalji prijavu",
+        "reasons": {
+          "spam": "Spam ili bot",
+          "harassment": "Uznemiravanje ili bullying",
+          "hate_speech": "Govor mržnje ili nacionalna mržnja",
+          "inappropriate": "Neprikladan sadržaj",
+          "other": "Ostalo"
+        }
+      }
+    }
+  },
+  "stories": {
+    "title": "Iskustva članova",
+    "items": [
+      {
+        "title": "Dijaspora i osjećaj „kod kuće“",
+        "content": "\"Živim u Švedskoj i želio sam jednostavan chat na jeziku koji mi je prirodan. Ovdje su razgovori o muzici, sportu i svakodnevici bez stalnog političkog ratovanja — kad netko pređe crtu, moderacija reagira.\"",
+        "author": "Nikola — Stockholm, član od 2024."
+      },
+      {
+        "title": "Manje šuma, više kultura susreta",
+        "content": "\"Isprobala sam grupne chatove bez pravila; tu brzo postane toksično. BalkanChat ima objavljena pravila i kontakt za sigurnost — to mi daje povjerenje da ostajem.\"",
+        "author": "Marina — Zagreb, članica od 2023."
+      },
+      {
+        "title": "Prioritet granicama i privatnosti",
+        "content": "\"Ne dijelim lokaciju ni broj telefona javno. Vidim da i pravila i vodič za sigurnost to podsjećaju članove — za mene je to znak ozbiljan pristup.\"",
+        "author": "Amir — Sarajevo, član od 2025."
+      }
+    ]
+  },
+  "safety": {
+    "title": "Zaštita zajednice i pouzdanost informacija",
+    "items": [
+      {
+        "icon": "Shield",
+        "title": "Moderacija kao autoritet prostora",
+        "content": "Tim moderatora provodi pravila protiv govora mržnje, nacionalističkog vrijeđanja, prijetnji i uznemiravanja. Cilj nije ušutkati mišljenje, nego ukloniti ponašanje koje ruši sigurnost većine članova."
+      },
+      {
+        "icon": "Lock",
+        "title": "Privatnost i minimizacija podataka",
+        "content": "Ne prodajemo razgovore oglašivačima. Politika privatnosti objašnjava što se obrađuje, zašto i koliko dugo. Možeš tražiti brisanje ili uvid tamo gdje zakon dopušta."
+      },
+      {
+        "icon": "Heart",
+        "title": "Zajednička odgovornost",
+        "content": "Blokiranje i prijava postoje da brzo odgovoriš na problem. Zdrava zajednica kombinira jasna pravila platforme i zrelu komunikaciju članova."
+      }
+    ]
+  },
+  "footer": {
+    "links": [
+      {
+        "label": "O nama",
+        "href": "/o-nama"
+      },
+      {
+        "label": "Politika privatnosti",
+        "href": "/privatnost"
+      },
+      {
+        "label": "Uvjeti korištenja",
+        "href": "/uvjeti"
+      },
+      {
+        "label": "Vodič za sigurnost",
+        "href": "/sigurnost"
+      },
+      {
+        "label": "Kontakt",
+        "href": "/kontakt"
+      },
+      {
+        "label": "Impresum",
+        "href": "/impresum"
+      }
+    ],
+    "copyright": "BalkanChat.net — pravo prikaza i korištenja zaštićeno.",
+    "disclaimer": "Isključivo za osobe starije od 18 godina. Poštuj druge korisnike i lokalne zakone; platforma nije zamjena za hitnu pomoć ili stručno savjetovanje."
+  },
+  "cookieConsent": {
+    "message": "Koristimo nužne i analitičke kolačiće kako bi stranica radila ispravno i kako bismo poboljšali iskustvo. Detalje nalaziš u politici privatnosti.",
+    "acceptText": "Prihvaćam",
+    "declineText": "Odbijam neobavezne",
+    "privacyText": "Politika privatnosti",
+    "privacyLink": "/privatnost",
+    "impressumText": "Impresum",
+    "impressumLink": "/impresum"
+  },
+  "pages": {
+    "about": {
+      "slug": "o-nama",
+      "title": "O BalkanChat.net — misija i moderacija",
+      "description": "Tko smo, zašto naglašavamo hrvatski jezik i kako donosimo odluke o sadržaju.",
+      "content": [
+        {
+          "heading": "Zašto postojimo",
+          "text": "BalkanChat.net nastao je kao tekstualni prostor za ljude iz regije i dijaspore koji žele dopisivati na hrvatskom uz poštovanje sugovornika. Regionalna pripadnost ne opravdava govor mržnje — naprotiv, tražimo kulturu susreta koja prepoznaje razlike bez dehumanizacije."
+        },
+        {
+          "heading": "Stručnost u moderaciji",
+          "text": "Moderatori ne automatski brišu svaku ironiju; procjenjuju kontekst, povijest prijava i težinu povrede. Trajni prekršaji vode zabrani pristupa sukladno uvjetima korištenja. Objavljujemo pravila kako bi članovi znali što očekivati prije nego uđu u raspravu."
+        },
+        {
+          "heading": "Transparentnost",
+          "text": "Impresum i kontakt stranica omogućuju pravne i sigurnosne upite. EEAT za nas znači da su informacije o operatoru, privatnosti i sigurnosti čitljive svima — ne sakrivene u sitnim slovima bez sadržaja."
+        }
+      ]
+    },
+    "privacy": {
+      "slug": "privatnost",
+      "title": "Politika privatnosti",
+      "description": "Koje podatke obrađujemo na BalkanChat.net i koja su tvoja prava.",
+      "content": [
+        {
+          "heading": "Podaci koje obrađujemo",
+          "text": "Ovisno o načinu prijave možemo obrađivati korisničko ime, adresu e-pošte, OAuth tokene, sadržaj poruka potreban za prikaz chata, tehničke zapise u sigurnosne svrhe te podatke sesije. Ne tražimo podatke koji nisu razumni za pružanje usluge."
+        },
+        {
+          "heading": "Pravna osnova i dijeljenje",
+          "text": "Obrada se temelji na izvršenju usluge, legitimnom interesu sigurnosti platforme te pristanku gdje je potreban (npr. određeni kolačići). Ne prodajemo tvoje poruke za oglašivačko profiliranje. Procesori infrastrukture rade po našim uputama."
+        },
+        {
+          "heading": "Tvoja prava",
+          "text": "Možeš zatražiti pristup, ispravak, brisanje, ograničenje obrade ili prigovor u okvirima zakona. Za zahtjeve koristi kontakt ili impresum. Možeš podnijeti pritužbu nadzornom tijelu za zaštitu osobnih podataka."
+        }
+      ]
+    },
+    "terms": {
+      "slug": "uvjeti",
+      "title": "Uvjeti korištenja",
+      "description": "Pravila ponašanja i odgovornosti na BalkanChat.net.",
+      "content": [
+        {
+          "heading": "Prihvatljivo ponašanje",
+          "text": "Zabranjen su govor mržnje, nacionalističko vrijeđanje koje eskalira u prijetnje, uznemiravanje, dijeljenje ilegalnog sadržaja, prijevare i zlonamjerni softver. Poštuj privatnost drugih."
+        },
+        {
+          "heading": "Odgovornost za sadržaj korisnika",
+          "text": "Za poruke odgovaraju pošiljatelji. Platforma može ukloniti materijal koji krši zakon ili uvjete nakon prijave. Usluga se pruža „kakva jest“ uz razumne napore održavanja dostupnosti."
+        },
+        {
+          "heading": "Dobna granica",
+          "text": "Korištenje je dopušteno samo punoljetnim osobama (18+). Potvrdom dobi izjavljuješ da je ispunjavaš."
+        }
+      ]
+    },
+    "safety": {
+      "slug": "sigurnost",
+      "title": "Vodič za sigurnost",
+      "description": "Zaštita identiteta, razumne granice dijeljenja i kada zvati pomoć izvan chata.",
+      "content": [
+        {
+          "heading": "Što zadržati privatnim",
+          "text": "Izbjegavaj javno objavljivanje točne adrese, broja mobitela, financijskih podataka ili podataka o djeci. Koristi jedinstvenu, jaku lozinku."
+        },
+        {
+          "heading": "Susreti uživo",
+          "text": "Prvi susret na javnom mjestu, obavijesti osobu od povjerenja i drži kontrolu nad prijevozom. Ako osjetiš pritisak ili manipulaciju, prekini komunikaciju i koristi blok/prijavu."
+        },
+        {
+          "heading": "Hitne situacije",
+          "text": "Za kaznena djela, nasilje ili hitnu zdravstvenu pomoć kontaktiraj lokalna tijela. Chat moderacija nije zamjena za policiju ili hitnu službu."
+        }
+      ]
+    },
+    "contact": {
+      "slug": "kontakt",
+      "title": "Kontakt",
+      "form": {
+        "namePlaceholder": "Ime ili nadimak",
+        "emailPlaceholder": "E-adresa za odgovor",
+        "messagePlaceholder": "Tvoja poruka",
+        "submit": "Pošalji",
+        "sending": "Šaljem...",
+        "success": "Poruka je poslana.",
+        "error": "Slanje nije uspjelo. Pokušaj kasnije."
+      },
+      "description": "Podrška, sigurnosne prijave i opća pitanja.",
+      "content": [
+        {
+          "heading": "Opća podrška",
+          "text": "Za tehničke poteškoće ili pitanja o računu koristi support@balkanchat.net. U predmetu navedi korisničko ime (bez lozinke) i kratak opis."
+        },
+        {
+          "heading": "Sigurnost",
+          "text": "Za ozbiljne prijave uznemiravanja ili ilegalnog sadržaja koristi safety@balkanchat.net."
+        },
+        {
+          "heading": "Suradnja",
+          "text": "Za partnerske upite dodaj oznaku „Suradnja“ u prvoj rečenici poruke."
+        }
+      ]
+    },
+    "impressum": {
+      "slug": "impresum",
+      "title": "Impresum — pravne informacije",
+      "description": "Identitet pružatelja usluge i odgovornost za vanjske poveznice.",
+      "content": [
+        {
+          "heading": "Pružatelj usluge",
+          "text": "Podaci o operatoru koji upravlja domenom balkanchat.net bit će objavljeni u skladu s važećim obvezujućim objavama za relevantno tržište. Do potpune registracije koristi službene e-adrese na stranici kontakt."
+        },
+        {
+          "heading": "Pravni i regulatorni upiti",
+          "text": "Za GDPR zahtjeve ili suradnju s tijelima javne vlasti koristi kontakt s oznakom „Pravni upit“ u predmetu."
+        },
+        {
+          "heading": "Vanjske poveznice",
+          "text": "Za sadržaj stranica na koje vode korisnički linkovi odgovaraju njihovi operatori. Prijavi sumnjive URL-ove radi moderacije."
+        }
+      ]
+    }
+  }
+}

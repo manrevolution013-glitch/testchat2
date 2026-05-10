@@ -1,0 +1,363 @@
+{
+  "assets": {
+    "heroBackground": "https://images.unsplash.com/photo-1555990538-466d33a76f62?auto=format&fit=crop&w=1950&q=80",
+    "chatBackground": "https://images.unsplash.com/photo-1518558997970-4ddc236affcd?auto=format&fit=crop&w=1600&q=80",
+    "chatBackgroundRepeat": "no-repeat",
+    "chatBackgroundSize": "cover",
+    "avatarApi": "",
+    "faviconPath": "/favicons/hrvatskichat"
+  },
+  "metadata": {
+    "title": "Hrvatski.chat — Besplatni online chat za Hrvatsku i dijasporu | Druženje i dopisivanje",
+    "description": "Službeni Hrvatski.chat: moderiran javni chat za osobe iz Hrvatske i dijaspore. Upoznaj ljude iz Zagreba, Splita, Rijeke, Osijeka i cijelog svijeta — uz jasna pravila, zaštitu privatnosti i brzu podršku. Besplatno, bez lažnih profila u smislu bot-skripti na platformi, za odrasle 18+.",
+    "keywords": [
+      "hrvatski chat",
+      "chat Hrvatska",
+      "online chat Hrvatska",
+      "dopisivanje Hrvatska",
+      "chat za dijasporu",
+      "besplatni chat",
+      "javni chat soba",
+      "moderirani chat",
+      "upoznavanje online Hrvatska",
+      "chat bez naplate",
+      "Zagreb Split Rijeka Osijek chat",
+      "siguran chat",
+      "zajednica Hrvatska"
+    ],
+    "openGraph": {
+      "title": "Hrvatski.chat — Siguran, moderiran chat za Hrvatsku i dijasporu",
+      "description": "Pridruži se zajednici na hrvatski.chat: poštovanje, jasna pravila ponašanja, aktivna moderacija i naglasak na privatnosti. Za punoljetne korisnice i korisnike koji traže normalno druženje i razgovor uživo u tekstu.",
+      "siteName": "hrvatski.chat",
+      "locale": "hr_HR",
+      "type": "website"
+    },
+    "alternates": {
+      "languages": {
+        "hr-HR": "/",
+        "x-default": "/"
+      }
+    }
+  },
+  "header": {
+    "logoText": "hrvatski.chat"
+  },
+  "hero": {
+    "title": "Hrvatski.chat — tvoje mjesto za druženje i razgovor",
+    "subtitle": "hrvatski.chat je moderirana platforma za dopisivanje namijenjena osobama iz Hrvatske i hrvatske dijaspore. Kroz javan prostor za razgovor i tematske kanale potičemo kulturu poštovanja, zdrav razum kod dijeljenja osobnih podataka i transparentna pravila koja štite zajednicu. Naš tim moderatora provodi pravila kako bi prostor ostao čitljiv i siguran, a podaci koje prikupljamo drže se na nužnom minimumu za rad usluge.",
+    "features": [
+      {
+        "icon": "ShieldCheck",
+        "text": "Moderacija i pravila ponašanja"
+      },
+      {
+        "icon": "Users",
+        "text": "Zajednica iz HR i dijaspore"
+      },
+      {
+        "icon": "Lock",
+        "text": "Privatnost i kontrola nad računom"
+      }
+    ]
+  },
+  "auth": {
+    "usernamePlaceholder": "Korisničko ime",
+    "passwordPlaceholder": "Lozinka (opcionalno za goste)",
+    "guestButton": "Uđi u chat",
+    "signInGoogle": "Prijava s Googleom",
+    "signInFacebook": "Prijava s Facebookom",
+    "or": "ili",
+    "loginButton": "Prijava",
+    "loginError": "Greška pri prijavi",
+    "connectionError": "Greška u vezi",
+    "errors": {
+      "incorrectPassword": "Netočna lozinka",
+      "missingUsername": "Nedostaje korisničko ime",
+      "usernameTaken": "Korisničko ime zauzeto"
+    }
+  },
+  "ageVerification": {
+    "title": "Potvrda dobi 18+",
+    "text": "Ovaj sadržaj je namijenjen isključivo punoljetnim osobama (18+). Uskladeni smo s pravilom da chat prostori za odrasle moraju biti jasno označeni; nastavkom potvrđuješ da ispunjavaš dobnu granicu.",
+    "yesButton": "Da, imam 18 ili više godina",
+    "noButton": "Ne, izlaz"
+  },
+  "dashboard": {
+    "loading": "Učitavanje...",
+    "publicChat": "Javni salon",
+    "channelsTitle": "Teme i kanali",
+    "createChannelTitle": "Nova tema",
+    "usersTitle": "Online članovi",
+    "rulesButton": "Pravila",
+    "logout": "Odjava",
+    "auth": {
+      "signIn": "Prijava",
+      "signUp": "Registracija",
+      "signInGoogle": "Prijava putem Googlea",
+      "signInFacebook": "Prijava putem Facebooka",
+      "email": "E-pošta",
+      "password": "Lozinka",
+      "confirmPassword": "Potvrda lozinke",
+      "username": "Korisničko ime",
+      "or": "ili"
+    },
+    "changeUsername": "Promijeni korisničko ime",
+    "profilePic": "Promijeni avatar",
+    "messagePlaceholder": "Upiši poruku...",
+    "online": "Online",
+    "timeAgo": {
+      "m": "prije {t} min",
+      "h": "prije {t} h",
+      "d": "prije {t} dana"
+    },
+    "notifications": {
+      "newMessage": "Nova poruka u",
+      "channel": "kanalu",
+      "dm": "privatnoj poruci"
+    },
+    "messages": {
+      "report": "Prijavi korisnika",
+      "sendError": "Slanje nije uspjelo",
+      "connectionError": "Poteškoće s vezom"
+    },
+    "modals": {
+      "rules": {
+        "close": "Zatvori"
+      },
+      "createChannel": {
+        "title": "Započni novu temu",
+        "placeholder": "Naziv teme",
+        "cancel": "Odustani",
+        "submit": "Stvori",
+        "success": "Tema je stvorena.",
+        "error": "Temu nije bilo moguće stvoriti."
+      },
+      "username": {
+        "minChars": "Korisničko ime mora imati najmanje 3 znaka.",
+        "success": "Korisničko ime je ažurirano.",
+        "error": "Ažuriranje nije uspjelo."
+      },
+      "report": {
+        "success": "Prijava je zaprimljena. Hvala što pomažeš održati zajednicu sigurnom.",
+        "error": "Prijava nije poslana. Pokušaj ponovno.",
+        "title": "Prijavi sadržaj ili korisnika",
+        "description": "Odaberi razlog kako bismo prioritetno obradili prijavu. Moderatorski tim pregledava prijave radi poštovanja pravila ponašanja.",
+        "label": "Razlog:",
+        "placeholder": "Odaberi razlog...",
+        "cancel": "Odustani",
+        "submit": "Pošalji prijavu",
+        "reasons": {
+          "spam": "Spam ili automatizirani sadržaj",
+          "harassment": "Uznemiravanje ili bullying",
+          "hate_speech": "Govor mržnje ili diskriminacija",
+          "inappropriate": "Neprikladan ili seksualno eksplicitan sadržaj",
+          "other": "Ostalo"
+        }
+      }
+    }
+  },
+  "stories": {
+    "title": "Iskustva iz zajednice",
+    "items": [
+      {
+        "title": "Dijaspora i osjećaj „kod kuće“",
+        "content": "\"Živim u Njemačkoj već godinu dana i nedostajalo mi je spontano „ćaskanje“ na hrvatskom. Na hrvatski.chat nađem ljude koji dijele iste reference — od nogometa do serija — bez tlaka kao na aplikacijama za upoznavanje.\"",
+        "author": "Petra — München, članica od 2024."
+      },
+      {
+        "title": "Manje šuma, više razgovora",
+        "content": "\"Isprobao sam nekoliko anonymnih boardova; ovdje je konstantnija moderacija i korisnici znaju što znači „javni prostor“. Kad netko pređe granicu, ima blok i prijava — to mi daje povjerenje da ostajem.\"",
+        "author": "Luka — Zagreb, član od 2023."
+      },
+      {
+        "title": "Prioritet sigurnosti",
+        "content": "\"Kao osoba koja na mreži dijeli malo osobnih podataka, cijenim da su pravila jasna i da postoji kontakt za ozbiljne prijave. Chat mi služi za lagano druženje nakon posla, ne za dramu.\"",
+        "author": "Ivana — Split, članica od 2025."
+      }
+    ]
+  },
+  "safety": {
+    "title": "Zaštita zajednice i povjerenje",
+    "items": [
+      {
+        "icon": "Shield",
+        "title": "Ljudi i pravila, ne „divlji zapad“",
+        "content": "Moderatori provode pravila ponašanja: govor mržnje, prijetnje i uznemiravanje nisu prihvatljivi. Cilj je održati prostor čitljiv i siguran za širok spektar tema — od sporta i glazbe do planiranja događaja i diskusija o svakodnevici."
+      },
+      {
+        "icon": "Lock",
+        "title": "Privatnost po dizajnu",
+        "content": "Ne prodajemo tvoje razgovore oglašivačima. Prikupljamo samo podatke koji su razumni za autentifikaciju i stabilan rad chata. Možeš tražiti uvid ili brisanje računa sukladno našoj politici privatnosti i važećem pravu."
+      },
+      {
+        "icon": "Heart",
+        "title": "Poštovanje i odgovornost članova",
+        "content": "Svaka članica i član sudjeluje u kulturi suglasnosti i uljudnosti. Blokiranje i prijava postoje upravo zato da brzo reagiraš ako nešto ne štima — zajednica je jača kad se problemi prijavljuju, a ne kad se šute."
+      }
+    ]
+  },
+  "footer": {
+    "links": [
+      {
+        "label": "O nama",
+        "href": "/o-nama"
+      },
+      {
+        "label": "Politika privatnosti",
+        "href": "/privatnost"
+      },
+      {
+        "label": "Uvjeti korištenja",
+        "href": "/uvjeti"
+      },
+      {
+        "label": "Vodič za sigurnost",
+        "href": "/sigurnost"
+      },
+      {
+        "label": "Kontakt",
+        "href": "/kontakt"
+      },
+      {
+        "label": "Impresum",
+        "href": "/impresum"
+      }
+    ],
+    "copyright": "hrvatski.chat — pravo prikaza i korištenja zaštićeno.",
+    "disclaimer": "Isključivo za osobe starije od 18 godina. Poštuj druge korisnike i lokalne zakone; platforma nije zamjena za hitnu pomoć ili stručno savjetovanje."
+  },
+  "cookieConsent": {
+    "message": "Koristimo nužne i analitičke kolačiće kako bi stranica radila ispravno i kako bismo poboljšali iskustvo. Detalje nalaziš u politici privatnosti.",
+    "acceptText": "Prihvaćam",
+    "declineText": "Odbijam neobavezne",
+    "privacyText": "Politika privatnosti",
+    "privacyLink": "/privatnost",
+    "impressumText": "Impresum",
+    "impressumLink": "/impresum"
+  },
+  "pages": {
+    "about": {
+      "slug": "o-nama",
+      "title": "O hrvatski.chat — misija i način rada",
+      "description": "Tko stoji iza hrvatski.chat platforme, kako moderiramo prostor i zašto naglašavamo povjerenje, transparentnost i odgovorno sudjelovanje.",
+      "content": [
+        {
+          "heading": "Zašto postojimo",
+          "text": "hrvatski.chat nastao je iz potrebe za jednostavnim, tekstualnim druženjem na hrvatskom jeziku — za ljude u Hrvatskoj, regiji i dijaspori koji žele razgovarati bez pretjerane gamifikacije ili skrivenih modela naplate. Fokus nam je na zajednici koja dijeli jezik, humor i kontekst, uz jasna očekivanja ponašanja."
+        },
+        {
+          "heading": "Kako donosimo odluke o sadržaju",
+          "text": "Moderacija nije „cenzura mišljenja“, već primjena pravila koja štite dostojanstvo i sigurnost. Sudjelujemo u zajednici s korisnicima i korisnicima kada je potrebno pojašnjenje politika. Trajni prekršaji mogu voditi privremenoj ili trajnoj zabrani pristupa, sukladno uvjetima korištenja."
+        },
+        {
+          "heading": "Transparentnost i kontakt",
+          "text": "Informacije o operatoru i pravnim napomenama nalaziš u impresumu. Za tehničku podršku, sigurnosne prijave ili medijske upite koristi kontakt stranicu i navedene adrese e-pošte — nastojimo odgovoriti u razumnom roku i ozbiljno shvatiti prijave uznemiravanja ili ilegalnog sadržaja."
+        }
+      ]
+    },
+    "privacy": {
+      "slug": "privatnost",
+      "title": "Politika privatnosti",
+      "description": "Koje podatke obrađujemo, u koje svrhe, koliko dugo i koja su tvoja prava prema GDPR-u i dobrim praksama.",
+      "content": [
+        {
+          "heading": "Podaci koje obrađujemo",
+          "text": "Ovisno o načinu prijave, možemo obrađivati korisničko ime, adresu e-pošte, tehničke zapise (npr. IP u sigurnosne svrhe u ograničenom trajanju), podatke o sesiji i sadržaj poruka potreban za prikaz chata i ispunjenje zakonskih obveza. Ne tražimo osobne podatke koji nisu nužni za pružanje usluge."
+        },
+        {
+          "heading": "Pravna osnova i dijeljenje",
+          "text": "Obrada se temelji na izvršenju ugovora (korištenje usluge), pristanku gdje je potreban (npr. određeni kolačići), te legitimnom interesu sigurnosti platforme unutar razmjernih granica. Ne prodajemo tvoje poruke trećim stranama za oglašivačko profiliranje. Izdavači infrastrukture (npr. hosting) mogu obrađivati podatke isključivo po našim uputama."
+        },
+        {
+          "heading": "Tvoja prava",
+          "text": "Možeš zatražiti pristup, ispravak, brisanje, ograničenje obrade ili prigovor postupcima koji se na tebe odnose, u okvirima zakona. Za zahtjeve koristi kontakt u impresumu ili stranicu kontakt. Imaš pravo podnijeti pritužbu nadzornom tijelu za zaštitu osobnih podataka."
+        }
+      ]
+    },
+    "terms": {
+      "slug": "uvjeti",
+      "title": "Uvjeti korištenja",
+      "description": "Pravila koja definiraju dopušteno ponašanje, odgovornost korisnika i ograničenja usluge.",
+      "content": [
+        {
+          "heading": "Prihvatljivo ponašanje",
+          "text": "Zabranjen je govor mržnje, uznemiravanje, dijeljenje sadržaja maloljetnika u bilo kojem obliku, ilegalna distribucija, prijevare i širenje zlonamjernog softvera. Poštuj privatnost drugih: ne objavljuj tuđe osobne podatke bez suglasnosti."
+        },
+        {
+          "heading": "Odgovornost i dostupnost usluge",
+          "text": "Usluga se pruža „kakva jest“. Nismo odgovorni za sadržaj koji korisnici objavljuju, uz obvezu uklanjanja materijala koji krši zakon ili uvjete nakon razumne prijave. Možemo mijenjati ili prekidati dijelove usluge uz razumnu najavu gdje je moguće."
+        },
+        {
+          "heading": "Dobna granica",
+          "text": "Korištenje je dopušteno samo punoljetnim osobama (18+). Potvrđujući dob pri ulasku, izjavljuješ da ispunjavaš taj uvjet. Kršenje može rezultirati trajnim uklanjanjem pristupa."
+        }
+      ]
+    },
+    "safety": {
+      "slug": "sigurnost",
+      "title": "Vodič za sigurnost na hrvatski.chat",
+      "description": "Praktični savjeti za zaštitu identiteta, razumne granice dijeljenja i sigurne offline susrete.",
+      "content": [
+        {
+          "heading": "Što zadržati za sebe",
+          "text": "Izbjegavaj objavljivanje točne adrese, broja mobitela, podataka o djeci, financijskih podataka ili radnog mjesta u javnom chatu. Jedinstvena, jaka lozinka i odjava s tuđih uređaja smanjuju rizik zlouporabe računa."
+        },
+        {
+          "heading": "Kada dogovaraš susret uživo",
+          "text": "Prvi susret uvijek na javnom mjestu, obavijesti osobu od povjerenja i drži kontrolu nad vlastitim prijevozom. Ako se situacija počne činiti neugodnom, prioritet ti je sigurnost — prekini komunikaciju i koristi blok/prijavu."
+        },
+        {
+          "heading": "Prijave i hitne situacije",
+          "text": "Za teško uznemiravanje, prijetnje ili sumnju na kazneno djelo koristi kontakte nadležnih tijela u svojoj zemlji. Chat platforma može ukloniti sadržaj i suspendirati račun, ali nije zamjena za policiju ili hitnu medicinsku pomoć."
+        }
+      ]
+    },
+    "contact": {
+      "slug": "kontakt",
+      "title": "Kontakt",
+      "form": {
+        "namePlaceholder": "Ime ili nadimak",
+        "emailPlaceholder": "E-adresa za odgovor",
+        "messagePlaceholder": "Tvoja poruka",
+        "submit": "Pošalji",
+        "sending": "Šaljem...",
+        "success": "Poruka je poslana.",
+        "error": "Slanje nije uspjelo. Pokušaj kasnije."
+      },
+      "description": "Podrška, sigurnosne prijave i opća pitanja — odgovaramo koliko je god moguće brzo.",
+      "content": [
+        {
+          "heading": "Opća podrška",
+          "text": "Za tehničke poteškoće, pitanja o računu ili opće upite koristi support@hrvatski.chat. U predmetu poruke navedi korisničko ime (bez lozinke) i kratak opis problema kako bismo brže locirali uzrok."
+        },
+        {
+          "heading": "Sigurnost i ozbiljne prijave",
+          "text": "Za prijave uznemiravanja, ilegalnog sadržaja ili hitnih sigurnosnih situacija u kontekstu platforme koristi safety@hrvatski.chat. Ne šalji osjetljive osobne podatke trećih osoba osim ako je neophodno za obradu prijave."
+        },
+        {
+          "heading": "Suradnja i mediji",
+          "text": "Za partnerske upite ili medijske kontakte koristi isti kanal kontakt obrasca uz napomenu „Partnerski upit“ ili „Mediji“ u prvoj rečenici kako bismo preusmjerili poruku."
+        }
+      ]
+    },
+    "impressum": {
+      "slug": "impresum",
+      "title": "Impresum — pravne informacije",
+      "description": "Identitet pružatelja usluge, kontakt i odgovornost za poveznice prema vanjskim stranicama.",
+      "content": [
+        {
+          "heading": "Pružatelj usluge",
+          "text": "Informacije o pravnoj osobi ili fizičkoj osobi koja upravlja domenom hrvatski.chat i uslugom chata objavit će se ovdje u skladu s obvezujućim objavama za tržište na kojem posluje operator. Do objave potpunih podataka, za službeni kontakt koristi e-adrese navedene na stranici kontakt."
+        },
+        {
+          "heading": "Kontakt za pravne i regulatorne upite",
+          "text": "Za zahtjeve ve uz osobne podatke (GDPR), pravne propise ili suradnju s tijelima javne vlasti koristi kontakt u podnožju stranice i označavanje „Pravni upit“ u predmetu poruke radi pravovremenog prosljeđivanja."
+        },
+        {
+          "heading": "Vanjske poveznice",
+          "text": "Za sadržaj stranica na koje korisnici postavljaju poveznice odgovaraju isključivo njihovi operatori. Mi aktivno ne pregledavamo sve vanjske URL-ove; prijavom možeš upozoriti na sumnjive linkove radi moderacije."
+        }
+      ]
+    }
+  }
+}

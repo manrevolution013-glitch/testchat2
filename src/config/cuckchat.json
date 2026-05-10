@@ -1,0 +1,321 @@
+{
+  "assets": {
+    "heroBackground": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80",
+    "chatBackground": "https://user-images.githubusercontent.com/15075759/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.png",
+    "avatarApi": "",
+    "faviconPath": "/favicons/cuckoldchat"
+  },
+  "metadata": {
+    "title": "Cuckold Chat | Die sichere, respektvolle & geprüfte Cuckold-Community",
+    "description": "Cuckold Chat auf Deutschlands sicherster Plattform erleben. Treten Sie unserer geprüften Community bei und entdecken Sie den Cuckold-Lebensstil mit Respekt, Diskretion und echten Verbindungen.",
+    "keywords": ["cuckold chat", "sichere community", "flr beziehungen", "paar dating", "bull kontakte", "authentische erfahrungen", "moderierter chat"],
+    "openGraph": {
+      "title": "Cuckoldchat.de - Authentische Verbindungen",
+      "description": "Eine Gemeinschaft, die auf Vertrauen, Respekt und Sicherheit aufgebaut ist.",
+      "siteName": "Cuckoldchat.de",
+      "locale": "de_DE",
+      "type": "website"
+    },
+    "alternates": {
+        "languages": {
+            "de": "/ueber-uns",
+            "en": "/en/about"
+        }
+    }
+  },
+  "header": {
+    "logoText": "cuckoldchat.de"
+  },
+  "hero": {
+    "title": "Entdecken Sie echte Verbindungen in einer sicheren Umgebung",
+    "subtitle": "Cuckold Chat auf höchstem Niveau: Willkommen bei Cuckoldchat.de – Ihrer Premium-Community für Sicherheit, Privatsphäre und authentischen Austausch. Hier finden Paare, Singles und Entdecker einen geschützten Raum für den Cuckold-Lebensstil, der Respekt und gegenseitiges Einvernehmen in den Mittelpunkt stellt.",
+    "features": [
+      { "icon": "ShieldCheck", "text": "Geprüfte Sicherheit" },
+      { "icon": "Users", "text": "Respektvolle Gemeinschaft" },
+      { "icon": "Lock", "text": "Maximale Diskretion" }
+    ]
+  },
+  "auth": {
+    "usernamePlaceholder": "Benutzername eingeben",
+    "passwordPlaceholder": "Passwort (optional für Gäste)",
+    "guestButton": "Chat beitreten",
+    "signInGoogle": "Mit Google anmelden",
+    "signInFacebook": "Mit Facebook anmelden",
+    "or": "oder",
+    "loginButton": "Anmelden",
+    "loginError": "Anmeldung fehlgeschlagen",
+    "connectionError": "Verbindungsfehler",
+    "errors": {
+      "incorrectPassword": "Falsches Passwort",
+      "missingUsername": "Benutzername fehlt",
+      "usernameTaken": "Benutzername bereits vergeben"
+    }
+  },
+  "ageVerification": {
+    "title": "Altersverifikation 18+",
+    "text": "Diese Website enthält Inhalte für Erwachsene, die nur für Personen ab 18 Jahren geeignet sind. Durch das Betreten bestätigen Sie, dass Sie volljährig sind.",
+    "yesButton": "Ja, ich bin über 18",
+    "noButton": "Nein, verlassen"
+  },
+  "dashboard": {
+    "loading": "Laden...",
+    "publicChat": "Öffentlicher Chat",
+    "channelsTitle": "Kanäle",
+    "createChannelTitle": "Kanal erstellen",
+    "usersTitle": "Benutzer",
+    "rulesButton": "Regeln",
+    "logout": "Abmelden",
+    "auth": {
+      "signIn": "Anmelden",
+      "signUp": "Registrieren",
+      "signInGoogle": "Mit Google anmelden",
+      "signInFacebook": "Mit Facebook anmelden",
+      "email": "E-Mail",
+      "password": "Passwort",
+      "confirmPassword": "Passwort bestätigen",
+      "username": "Benutzername",
+      "or": "oder"
+    },
+    "changeUsername": "Benutzername ändern",
+    "profilePic": "Profilbild ändern",
+    "messagePlaceholder": "Nachricht eingeben...",
+    "online": "Online",
+    "timeAgo": {
+      "m": "vor {t}m",
+      "h": "vor {t}std",
+      "d": "vor {t}t"
+    },
+    "notifications": {
+      "newMessage": "Neue Nachricht in",
+      "channel": "einem Kanal",
+      "dm": "einer Direktnachricht"
+    },
+    "messages": {
+      "report": "Nachricht melden",
+      "sendError": "Fehler beim Senden",
+      "connectionError": "Verbindungsfehler"
+    },
+    "modals": {
+      "rules": {
+        "close": "Schließen"
+      },
+      "createChannel": {
+        "title": "Neuen Kanal erstellen",
+        "placeholder": "Kanalname",
+        "cancel": "Abbrechen",
+        "submit": "Erstellen",
+        "success": "Kanal erstellt",
+        "error": "Fehler beim Erstellen des Kanals"
+      },
+      "username": {
+        "minChars": "Benutzername muss mindestens 3 Zeichen lang sein.",
+        "success": "Benutzername erfolgreich geändert.",
+        "error": "Fehler beim Ändern des Benutzernamens."
+      },
+      "report": {
+        "success": "Meldung erfolgreich gesendet.",
+        "error": "Fehler beim Senden der Meldung.",
+        "title": "Benutzer melden",
+        "description": "Bitte wählen Sie einen Grund für die Meldung dieser Nachricht. Unser Moderationsteam wird dies in Kürze überprüfen.",
+        "label": "Grund:",
+        "placeholder": "Grund auswählen...",
+        "cancel": "Abbrechen",
+        "submit": "Bericht Senden",
+        "reasons": {
+          "spam": "Spam oder Unerwünscht",
+          "harassment": "Belästigung oder Mobbing",
+          "hate_speech": "Hassrede",
+          "inappropriate": "Unangemessener Inhalt",
+          "other": "Sonstiges"
+        }
+      }
+    }
+  },
+  "stories": {
+    "title": "Erfahrungen aus unserer Community",
+    "items": [
+      {
+        "title": "Endlich verstanden werden",
+        "content": "\"Nach Jahren der Suche auf anderen Plattformen habe ich hier endlich eine Gemeinschaft gefunden, die nicht urteilt. Die Gespräche sind tiefgründig, respektvoll und haben meine Beziehung bereichert.\"",
+        "author": "Anna & Mark, München - Mitglieder seit 2023"
+      },
+      {
+        "title": "Sicherheit als Priorität",
+        "content": "\"Als Bull ist es mir wichtig, dass Grenzen respektiert werden. Die Moderation hier ist vorbildlich. Man merkt sofort, dass Qualität vor Quantität geht. Das gibt allen Beteiligten ein gutes Gefühl.\"",
+        "author": "Thomas, Hamburg - Mitglied seit 2022"
+      },
+      {
+        "title": "Ein geschützter Raum",
+        "content": "\"Der Austausch mit anderen Paaren hat uns geholfen, unsere eigenen Wünsche besser zu kommunizieren. Die Anonymität wird gewahrt, aber die Verbindungen fühlen sich echt an.\"",
+        "author": "Julia & Sven, Berlin - Mitglieder seit 2024"
+      }
+    ]
+  },
+  "safety": {
+    "title": "Warum Sie uns vertrauen können",
+    "items": [
+      {
+        "icon": "Shield",
+        "title": "Expertise & Moderation",
+        "content": "Unser Team besteht aus erfahrenen Moderatoren, die die Dynamiken des Lebensstils verstehen. Wir setzen unsere Richtlinien konsequent durch, um Missbrauch, Fake-Profile und Belästigung fernzuhalten. Qualität ist unser Markenzeichen."
+      },
+      {
+        "icon": "Lock",
+        "title": "Datenschutz und Kontrolle",
+        "content": "Wir setzen auf moderne Verschlüsselung. Ihre Daten gehören Ihnen; wir verkaufen sie nicht und halten die Plattform werbefrei, damit Ihre Interaktionen im Mittelpunkt stehen."
+      },
+      {
+        "icon": "Heart",
+        "title": "Vertrauenswürdige Kultur",
+        "content": "Wir fördern eine Kultur des Konsenses (SSC/RACK). Unsere Community-Richtlinien sind transparent und verbindlich. Jedes Mitglied verpflichtet sich zu Ehrlichkeit und Respekt, was diese Plattform zu einem sicheren Hafen macht."
+      }
+    ]
+  },
+  "footer": {
+    "links": [
+      { "label": "Über uns & Mission", "href": "/ueber-uns" },
+      { "label": "Datenschutz & Sicherheit", "href": "/datenschutz" },
+      { "label": "Nutzungsbedingungen", "href": "/nutzungsbedingungen" },
+      { "label": "Leitfaden für Sicherheit", "href": "/sicherheit" },
+      { "label": "Kontakt & Support", "href": "/kontakt" },
+      { "label": "Impressum", "href": "/impressum" }
+    ],
+    "copyright": "Cuckoldchat.de. Alle Rechte vorbehalten.",
+    "disclaimer": "Zugang ab 18 Jahren. Wir fördern sichere, einvernehmliche und informierte Interaktionen."
+  },
+  "cookieConsent": {
+    "message": "Wir verwenden Cookies, um Ihre Erfahrung zu verbessern und sicherzustellen, dass unsere Website ordnungsgemäß funktioniert.",
+    "acceptText": "Akzeptieren",
+    "declineText": "Ablehnen",
+    "privacyText": "Datenschutzerklärung",
+    "privacyLink": "/datenschutz",
+    "impressumText": "Impressum",
+    "impressumLink": "/impressum"
+  },
+  "pages": {
+    "about": {
+      "slug": "ueber-uns",
+      "title": "Über Cuckoldchat.de",
+      "description": "Lernen Sie unsere Werte, unsere Geschichte und unseren Anspruch an eine sichere Community kennen.",
+      "content": [
+        {
+          "heading": "Unsere Philosophie",
+          "text": "Cuckoldchat.de wurde mit einer klaren Vision gegründet: Einen digitalen Raum zu schaffen, der frei von Stigmata ist und Sicherheit priorisiert. Wir verstehen die Nuancen und die emotionale Tiefe des Cuckold-Lebensstils. Unsere Plattform ist nicht nur ein Chat, sondern ein kuratierter Raum für echten Austausch."
+        },
+        {
+          "heading": "Expertise und Erfahrung",
+          "text": "Hinter der Plattform steht ein Team, das sich seit Jahren mit Community-Management und Online-Sicherheit beschäftigt. Wir wissen, dass Vertrauen die Währung unserer Community ist. Deshalb investieren wir kontinuierlich in Sicherheitsfeatures und Moderationsschulungen."
+        },
+        {
+          "heading": "Qualitätsversprechen",
+          "text": "Wir glauben an 'Klasse statt Masse'. Wir bevorzugen eine kleinere, aber engagierte und respektvolle Basis gegenüber einer anonymen Masse. Jedes Profil und jede Meldung wird ernst genommen, um die Integrität unserer Gemeinschaft zu wahren."
+        }
+      ]
+    },
+    "privacy": {
+      "slug": "datenschutz",
+      "title": "Datenschutz & Vertrauen",
+      "description": "Transparenz ist uns wichtig. Hier erfahren Sie, wie wir Ihre Daten schützen.",
+      "content": [
+        {
+          "heading": "Minimale Datenspeicherung",
+          "text": "Wir praktizieren Datensparsamkeit. Wir speichern nur das, was technisch für den Betrieb notwendig ist. Wir erfragen keine persönlichen Daten wie Name, Adresse oder Geburtsdatum. Zur Nutzung benötigen Sie lediglich einen Benutzernamen und ein Passwort."
+        },
+        {
+          "heading": "Keine Weitergabe",
+          "text": "Ihre Identität ist heilig. Wir teilen keine Daten mit Werbetreibenden, Trackern oder Drittanbietern. Unser Geschäftsmodell basiert nicht auf Ihren Daten."
+        },
+        {
+          "heading": "Volle Kontrolle",
+          "text": "Sie haben jederzeit das Recht, Ihre Daten vollständig zu exportieren oder Ihr Konto unwiderruflich zu löschen. Ein Klick genügt, und Ihre Spuren auf unseren Servern werden entfernt."
+        }
+      ]
+    },
+    "terms": {
+      "slug": "nutzungsbedingungen",
+      "title": "Nutzungsbedingungen & Kodex",
+      "description": "Unsere Regeln für ein harmonisches Miteinander.",
+      "content": [
+        {
+          "heading": "Respektvoller Umgang",
+          "text": "Jede Interaktion auf Cuckoldchat.de muss von gegenseitigem Respekt geprägt sein. Diskriminierung, Bodyshaming oder aggressive Sprache haben hier keinen Platz."
+        },
+        {
+          "heading": "Konsensprinzip",
+          "text": "Wir folgen dem Prinzip des enthusiastischen Konsenses. Drängen, Überreden oder das Ignorieren eines 'Nein' führen zum sofortigen Ausschluss. Wir schützen unsere Mitglieder proaktiv."
+        },
+        {
+          "heading": "Verantwortlichkeit",
+          "text": "Als Mitglied tragen Sie Verantwortung für die Inhalte, die Sie teilen. Wir erwarten Ehrlichkeit in Bezug auf Beziehungsstatus und Absichten."
+        }
+      ]
+    },
+    "safety": {
+      "slug": "sicherheit",
+      "title": "Sicherheitsleitfaden",
+      "description": "Best Practices für Ihre Sicherheit online und offline.",
+      "content": [
+        {
+          "heading": "Digitale Selbstverteidigung",
+          "text": "Nutzen Sie starke Passwörter und Zwei-Faktor-Authentifizierung (wenn verfügbar). Geben Sie niemals Passwörter weiter. Seien Sie vorsichtig mit Links von Unbekannten."
+        },
+        {
+          "heading": "Schutz der Identität",
+          "text": "Vermeiden Sie Fotos, die Rückschlüsse auf Ihren Wohnort oder Arbeitgeber zulassen (z.B. Hintergründe, Namensschilder). Nutzen Sie Pseudonyme, die Sie nicht auf anderen sozialen Netzwerken verwenden."
+        },
+        {
+          "heading": "Reale Treffen",
+          "text": "Treffen Sie sich beim ersten Mal immer an einem neutralen, öffentlichen Ort. Informieren Sie eine Vertrauensperson über Ihr Vorhaben. Lassen Sie sich Zeit, bevor Sie persönliche Daten wie Adressen austauschen."
+        }
+      ]
+    },
+    "contact": {
+      "slug": "kontakt",
+      "title": "Kontakt & Hilfe",
+      "form": {
+        "namePlaceholder": "Ihr Name",
+        "emailPlaceholder": "Ihre E-Mail",
+        "messagePlaceholder": "Ihre Nachricht",
+        "submit": "Nachricht Senden",
+        "sending": "Senden...",
+        "success": "Nachricht gesendet!",
+        "error": "Fehler beim Senden der Nachricht."
+      },
+      "description": "Wir sind für Sie da. Unser Team antwortet persönlich.",
+      "content": [
+        {
+          "heading": "Mitglieder-Support",
+          "text": "Haben Sie technische Fragen oder benötigen Hilfe? Unser Support-Team steht Ihnen unter support@cuckoldchat.de zur Verfügung. Wir garantieren eine Antwortzeit von unter 24 Stunden."
+        },
+        {
+          "heading": "Sicherheit & Meldungen",
+          "text": "Sicherheitshinweise haben Vorrang. Wenn Sie sich unwohl fühlen oder einen Verstoß melden möchten, schreiben Sie direkt an safety@cuckoldchat.de oder nutzen Sie den Melde-Button im Chat."
+        },
+        {
+          "heading": "Feedback",
+          "text": "Wir entwickeln uns ständig weiter. Ihr Feedback hilft uns, die Plattform noch besser zu machen. Zögern Sie nicht, uns Ihre Vorschläge zu senden."
+        }
+      ]
+    },
+    "impressum": {
+      "slug": "impressum",
+      "title": "Impressum & Kontakt",
+      "description": "Informationen zum Projekt",
+      "content": [
+        {
+          "heading": "Über dieses Projekt",
+          "text": "Dies ist eine private Community-Plattform, die dem Austausch und der Vernetzung dient. Es werden keine kommerziellen Interessen verfolgt."
+        },
+        {
+          "heading": "Kontakt",
+          "text": "E-Mail: kontakt@cuckoldchat.de\n\nBei Fragen zum Datenschutz oder zur Sicherheit wenden Sie sich bitte an unseren Support."
+        },
+         {
+          "heading": "Haftungshinweis",
+          "text": "Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich."
+        }
+      ]
+    }
+  }
+}
+

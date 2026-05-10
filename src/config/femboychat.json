@@ -1,0 +1,359 @@
+{
+  "assets": {
+    "heroBackground": "https://images.unsplash.com/photo-1529333166437-af0f88686cfe?auto=format&fit=crop&w=1950&q=80",
+    "chatBackground": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?auto=format&fit=crop&w=1950&q=80",
+    "chatBackgroundRepeat": "no-repeat",
+    "chatBackgroundSize": "cover",
+    "avatarApi": "",
+    "faviconPath": "/favicons/femboychat"
+  },
+  "metadata": {
+    "title": "Femboy Chat — Free LGBTQ+ Community Chat Online | FemboyChat.net",
+    "description": "FemboyChat.net is a moderated, adults-only (18+) English chat for femboys and allies: fashion, identity, friendship, and respectful conversation. Clear rules, active moderation, privacy-aware design — no bots-for-hire posing as real users.",
+    "keywords": [
+      "femboy chat",
+      "femboy community online",
+      "LGBTQ chat room",
+      "gender expression chat",
+      "safe queer chat 18+",
+      "free chat femboy",
+      "moderated LGBTQ forum",
+      "femboy friendship chat",
+      "respectful adult chat"
+    ],
+    "openGraph": {
+      "title": "FemboyChat.net — Respectful Community & Live Chat",
+      "description": "Join a consent-forward, moderated space for femboys and supportive members. English-language chat with reporting tools and published safety guidance.",
+      "siteName": "FemboyChat.net",
+      "locale": "en_US",
+      "type": "website"
+    },
+    "alternates": {
+      "languages": {
+        "en": "/",
+        "x-default": "/"
+      }
+    }
+  },
+  "header": {
+    "logoText": "femboychat.net"
+  },
+  "hero": {
+    "title": "A moderated community built around respect and expression",
+    "subtitle": "FemboyChat.net exists so people exploring femboy identity — and friends who support them — have a dedicated English-language space to talk, share style tips, and meet others without the noise of generic platforms. We publish clear rules, explain how moderation works, and treat privacy as part of trustworthiness (EEAT): you deserve to know what you are signing up for.",
+    "features": [
+      {
+        "icon": "ShieldCheck",
+        "text": "Human moderation & reporting"
+      },
+      {
+        "icon": "Users",
+        "text": "Inclusive, ally-friendly culture"
+      },
+      {
+        "icon": "Lock",
+        "text": "Privacy-conscious by design"
+      }
+    ]
+  },
+  "auth": {
+    "usernamePlaceholder": "Choose a Username",
+    "passwordPlaceholder": "Password (Optional for Guests)",
+    "guestButton": "Join the Chat",
+    "signInGoogle": "Sign in with Google",
+    "signInFacebook": "Sign in with Facebook",
+    "or": "or",
+    "loginButton": "Login",
+    "loginError": "Login Failed",
+    "connectionError": "Connection Error",
+    "errors": {
+      "incorrectPassword": "Incorrect password",
+      "missingUsername": "Missing username",
+      "usernameTaken": "Username taken"
+    }
+  },
+  "ageVerification": {
+    "title": "Age Verification 18+",
+    "text": "This community discusses adult themes related to identity and community life. You must be at least 18 years old to enter.",
+    "yesButton": "Yes, I am 18+",
+    "noButton": "No, I am under 18"
+  },
+  "dashboard": {
+    "loading": "Loading...",
+    "publicChat": "Public Lounge",
+    "channelsTitle": "Topics",
+    "createChannelTitle": "New Topic",
+    "usersTitle": "Online Members",
+    "rulesButton": "Rules",
+    "logout": "Logout",
+    "auth": {
+      "signIn": "Sign In",
+      "signUp": "Sign Up",
+      "signInGoogle": "Sign in with Google",
+      "signInFacebook": "Sign in with Facebook",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "username": "Username",
+      "or": "or"
+    },
+    "changeUsername": "Change Username",
+    "profilePic": "Change Avatar",
+    "messagePlaceholder": "Type a message...",
+    "online": "Online",
+    "timeAgo": {
+      "m": "{t}m ago",
+      "h": "{t}h ago",
+      "d": "{t}d ago"
+    },
+    "notifications": {
+      "newMessage": "New message in",
+      "channel": "a channel",
+      "dm": "a DM"
+    },
+    "messages": {
+      "report": "Report User",
+      "sendError": "Failed to send",
+      "connectionError": "Connection error"
+    },
+    "modals": {
+      "rules": {
+        "close": "Close"
+      },
+      "createChannel": {
+        "title": "Start a New Topic",
+        "placeholder": "Topic Name",
+        "cancel": "Cancel",
+        "submit": "Create",
+        "success": "Topic created!",
+        "error": "Could not create topic"
+      },
+      "username": {
+        "minChars": "Username must be 3+ characters.",
+        "success": "Username updated.",
+        "error": "Could not update username."
+      },
+      "report": {
+        "success": "Report sent. Thank you for keeping us safe.",
+        "error": "Could not send report.",
+        "title": "Report User",
+        "description": "Please select a reason for reporting this content. We review all reports to maintain safety.",
+        "label": "Reason:",
+        "placeholder": "Select a reason...",
+        "cancel": "Cancel",
+        "submit": "Submit Report",
+        "reasons": {
+          "spam": "Spam or Bot",
+          "harassment": "Harassment or Bullying",
+          "hate_speech": "Hate Speech",
+          "inappropriate": "Inappropriate Content",
+          "other": "Other"
+        }
+      }
+    }
+  },
+  "stories": {
+    "title": "Voices from the community",
+    "items": [
+      {
+        "title": "Finally found “my” corner of the internet",
+        "content": "\"Other apps lump everyone together. Here people actually understand what I mean when I talk about presentation and confidence. Mods shut down creeps fast — that matters.\"",
+        "author": "Jordan — joined 2024"
+      },
+      {
+        "title": "Style tips without judgment",
+        "content": "\"I lurked for a week, then asked about shoes and eyeliner in General. Got thoughtful replies, not spam DMs. Feels like a real community run by humans.\"",
+        "author": "Alex — Portland, joined 2025"
+      },
+      {
+        "title": "Allies welcome, boundaries respected",
+        "content": "\"I am supportive partner-level ally; the rules made it clear how to participate respectfully. I like that the site explains consent and anti-harassment upfront.\"",
+        "author": "Sam — joined 2023"
+      }
+    ]
+  },
+  "safety": {
+    "title": "Safety, consent, and trust signals we publish on purpose",
+    "items": [
+      {
+        "icon": "Shield",
+        "title": "Moderation you can count on",
+        "content": "Harassment, fetishization without consent, hate speech, and predatory behavior are removed per our Terms. Reporting exists so members can escalate issues quickly — we review context, not just keywords."
+      },
+      {
+        "icon": "Lock",
+        "title": "Data minimization",
+        "content": "We describe what we collect and why in our Privacy Policy (experience & transparency). We do not monetize your DMs to advertisers; operational hosting may process technical logs as described there."
+      },
+      {
+        "icon": "Heart",
+        "title": "Community accountability",
+        "content": "Healthy spaces depend on members too: block early, report patterns, and avoid sharing identifiers you cannot take back. Our Safety Guide summarizes offline meeting precautions."
+      }
+    ]
+  },
+  "footer": {
+    "links": [
+      {
+        "label": "About Us",
+        "href": "/about"
+      },
+      {
+        "label": "Privacy Policy",
+        "href": "/privacy"
+      },
+      {
+        "label": "Terms of Service",
+        "href": "/terms"
+      },
+      {
+        "label": "Safety Guide",
+        "href": "/safety"
+      },
+      {
+        "label": "Contact Us",
+        "href": "/contact"
+      },
+      {
+        "label": "Impressum",
+        "href": "/imprint"
+      }
+    ],
+    "copyright": "FemboyChat.net. All Rights Reserved.",
+    "disclaimer": "Adults only (18+). We promote respectful, consensual interaction. We are not a crisis service — see Safety page for emergencies."
+  },
+  "cookieConsent": {
+    "message": "We use cookies to ensure the site functions correctly and to improve your experience.",
+    "acceptText": "Accept",
+    "declineText": "Decline",
+    "privacyText": "Privacy Policy",
+    "privacyLink": "/privacy",
+    "impressumText": "Imprint",
+    "impressumLink": "/imprint"
+  },
+  "pages": {
+    "about": {
+      "slug": "about",
+      "title": "About FemboyChat.net",
+      "description": "Who we serve, how we moderate, and why transparency matters for LGBTQ+ chat.",
+      "content": [
+        {
+          "heading": "Our mission",
+          "text": "FemboyChat.net provides a text-first meeting place for adults who identify with or support femboy culture — fashion, presentation, confidence, and friendship — without reducing people to stereotypes. We combine software tooling with human moderation because automated filters alone miss nuance and context."
+        },
+        {
+          "heading": "Expertise & editorial stance",
+          "text": "Our published policies (Privacy, Terms, Safety) explain operational decisions in plain English: what we ban, how appeals work at a high level, and how to reach humans on the team. That documentation is part of how we demonstrate experience and trustworthiness for members and search visitors alike."
+        },
+        {
+          "heading": "Growing with feedback",
+          "text": "Community needs evolve. We adjust channel defaults and guidance based on repeated friction points — always within the guardrails of consent, legality, and platform safety. Contact us if you represent an organization with constructive partnership ideas."
+        }
+      ]
+    },
+    "privacy": {
+      "slug": "privacy",
+      "title": "Privacy Policy",
+      "description": "How FemboyChat.net handles personal data, retention, and your rights.",
+      "content": [
+        {
+          "heading": "What we collect",
+          "text": "Depending on login method, we may process username, email (if provided), authentication tokens from OAuth providers, chat messages necessary to display threads, and limited technical data (IP, device/browser classes) for security and abuse prevention. We avoid asking for government IDs for casual chat."
+        },
+        {
+          "heading": "Sharing & processors",
+          "text": "Infrastructure vendors (hosting, database, email delivery) may process data solely to operate the service. We do not sell chat transcripts for ad profiling. Legal disclosures occur only when required by applicable law after reasonable review."
+        },
+        {
+          "heading": "Your controls",
+          "text": "You may request export or deletion subject to lawful retention needs (e.g., ongoing abuse investigations). Contact addresses below route to operators who can verify ownership without exposing passwords in email."
+        }
+      ]
+    },
+    "terms": {
+      "slug": "terms",
+      "title": "Terms of Service",
+      "description": "Rules that keep FemboyChat.net lawful and welcoming.",
+      "content": [
+        {
+          "heading": "Respect and inclusion",
+          "text": "Homophobia, transphobia, racism, misogyny, and coordinated harassment are prohibited. Sexual content must follow consent norms outlined in chat rules; minors, non-consensual themes, and exploitative material are banned outright."
+        },
+        {
+          "heading": "Prohibited conduct",
+          "text": "No spam bots, malware links, credential phishing, impersonation of staff, or evasion of enforcement. Commercial solicitation requires prior approval; unsolicited advertising may be removed."
+        },
+        {
+          "heading": "Age & jurisdiction",
+          "text": "You must be 18+. You are responsible for complying with local laws. Continued use constitutes acceptance of these Terms and our Safety materials."
+        }
+      ]
+    },
+    "safety": {
+      "slug": "safety",
+      "title": "Safety Guide",
+      "description": "Protect your identity, recognize red flags, and know when to involve authorities.",
+      "content": [
+        {
+          "heading": "Identity hygiene",
+          "text": "Use unique passwords, avoid reusing banking emails, and think twice before sharing workplaces, schools, or real-time location. Crop metadata from photos if they reveal GPS data."
+        },
+        {
+          "heading": "Meeting people offline",
+          "text": "Meet first in public, tell someone trusted, control your own transport, and leave if boundaries are ignored. Online charisma is not a substitute for verified trust."
+        },
+        {
+          "heading": "Emergencies",
+          "text": "If you or someone else is in immediate danger, contact local emergency services. Platform moderation complements — but never replaces — law enforcement and crisis hotlines."
+        }
+      ]
+    },
+    "contact": {
+      "slug": "contact",
+      "title": "Contact Us",
+      "form": {
+        "namePlaceholder": "Your Name",
+        "emailPlaceholder": "Your Email",
+        "messagePlaceholder": "Your Message",
+        "submit": "Send Message",
+        "sending": "Sending...",
+        "success": "Message sent!",
+        "error": "Failed to send message."
+      },
+      "description": "Reach the operations team for account issues, legal notices routing, or safety escalations.",
+      "content": [
+        {
+          "heading": "General support",
+          "text": "Email support@femboychat.net for login problems, billing-free usage questions, or bug reports. Include username (never passwords) and timestamps when relevant."
+        },
+        {
+          "heading": "Safety escalations",
+          "text": "Email safety@femboychat.net for harassment rings, suspected minors, or illegal content. Provide message IDs or screenshots where safe — we triage urgent reports."
+        },
+        {
+          "heading": "Partnerships",
+          "text": "Community organizations may propose collaborations via the contact form with “Partnership” in the subject line."
+        }
+      ]
+    },
+    "impressum": {
+      "slug": "imprint",
+      "title": "Imprint",
+      "description": "Legal operator information and disclaimers.",
+      "content": [
+        {
+          "heading": "Operator",
+          "text": "FemboyChat.net is operated as an independent community service. Full registered operator details for your jurisdiction will be maintained here as required by applicable disclosure laws."
+        },
+        {
+          "heading": "Contact",
+          "text": "Legal correspondence: contact@femboychat.net"
+        },
+        {
+          "heading": "Liability for links",
+          "text": "Users may post external URLs; respective site operators remain responsible for third-party content. Report suspicious links via in-chat tools."
+        }
+      ]
+    }
+  }
+}
